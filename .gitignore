@@ -1,0 +1,26 @@
+# Python cache and byte code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Credentials and Tokens - VERY IMPORTANT!
+client_secret*.json
+token*.json
+*token.json
+
+# Log files and generated folders (adjust if needed)
+*.log
+courses/
+playlists/
+*Excel/
+
+# OS specific files
+.DS_Store
+Thumbs.db

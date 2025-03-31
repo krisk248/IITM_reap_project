@@ -1,0 +1,1638 @@
+[2025-02-05 15:12:00] 🚀 Log started at 15:12:00 on 2025-02-05
+[2025-02-05 15:12:00] 
+📁 Entering folder: K:\\REAP 15 Course 2024\\720p [UID: bb0140337c]
+[2025-02-05 15:12:00] 📦 Folder size: 117.28 GB and 120095.18 MB
+[2025-02-05 15:12:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p [UID: bb0140337c]
+[2025-02-05 15:12:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p': 0 hours 0 minutes and 0 seconds [UID: bb0140337c]
+[2025-02-05 15:12:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\0. REAP Program project Introduction Video [UID: 756bf3aefb]
+[2025-02-05 15:12:00] 🎬 Processing: Reap Project Video.mp4
+[2025-02-05 15:12:01] ✅ Duration: 0 hours 2 minutes and 15 seconds
+[2025-02-05 15:12:01] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\0. REAP Program project Introduction Video': 0 hours 2 minutes and 15 seconds [UID: 756bf3aefb]
+[2025-02-05 15:12:01] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P [UID: 3015bc34c8]
+[2025-02-05 15:12:01] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P': 0 hours 0 minutes and 0 seconds [UID: 3015bc34c8]
+[2025-02-05 15:12:01] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle making No music [UID: 757857eed9]
+[2025-02-05 15:12:01] 🎬 Processing: Chapter 1A - Introduction.mp4
+[2025-02-05 15:12:02] ✅ Duration: 0 hours 24 minutes and 48 seconds
+[2025-02-05 15:12:02] 🎬 Processing: Chapter 2A - How to select the right kind of molds.mp4
+[2025-02-05 15:12:02] ✅ Duration: 0 hours 12 minutes and 8 seconds
+[2025-02-05 15:12:02] 🎬 Processing: Chapter 2B - Knowledge on equipment and raw materials required and their procurement.mp4
+[2025-02-05 15:12:03] ✅ Duration: 0 hours 12 minutes and 29 seconds
+[2025-02-05 15:12:03] 🎬 Processing: Chapter 2C - Method of wick selection for different types of molds.mp4
+[2025-02-05 15:12:03] ✅ Duration: 0 hours 4 minutes and 24 seconds
+[2025-02-05 15:12:03] 🎬 Processing: Chapter 2D - Types of fragrances used , use of colours pigments.mp4
+[2025-02-05 15:12:04] ✅ Duration: 0 hours 9 minutes and 21 seconds
+[2025-02-05 15:12:04] 🎬 Processing: Chapter 2E - Types of waxes.mp4
+[2025-02-05 15:12:04] ✅ Duration: 0 hours 9 minutes and 21 seconds
+[2025-02-05 15:12:04] 🎬 Processing: Chapter 2F - Types of wicks - Different sizes and thickness etc.mp4
+[2025-02-05 15:12:05] ✅ Duration: 0 hours 6 minutes and 12 seconds
+[2025-02-05 15:12:05] 🎬 Processing: Chapter 3A - Wax candle Preparation, Melting, Preparation of wicks and different types Fragrance, Double colour none colour Pouring, use wick.mp4
+[2025-02-05 15:12:05] ✅ Duration: 0 hours 12 minutes and 49 seconds
+[2025-02-05 15:12:05] 🎬 Processing: Chapter 3B - Paraffin - Wax candle Preparation, Melting, Preparation of wicks and diffrent taypes (D)Fragrance, Double colours none colour Pouring, use wick.mp4
+[2025-02-05 15:12:06] ✅ Duration: 0 hours 13 minutes and 58 seconds
+[2025-02-05 15:12:06] 🎬 Processing: Chapter 3C - Soy Wax candle Preparation.mp4
+[2025-02-05 15:12:06] ✅ Duration: 0 hours 16 minutes and 2 seconds
+[2025-02-05 15:12:06] 🎬 Processing: Chapter 4A - Different Types of candles.mp4
+[2025-02-05 15:12:07] ✅ Duration: 0 hours 7 minutes and 24 seconds
+[2025-02-05 15:12:07] 🎬 Processing: Chapter 5A - Top Candle Trends and their making procedure.mp4
+[2025-02-05 15:12:08] ✅ Duration: 0 hours 17 minutes and 53 seconds
+[2025-02-05 15:12:08] 🎬 Processing: Chapter 6A - Easy way of taking the candle from molds, How to get the final finish on candle.mp4
+[2025-02-05 15:12:08] ✅ Duration: 0 hours 25 minutes and 11 seconds
+[2025-02-05 15:12:08] 🎬 Processing: Chapter 6B - Final Presentation ,Use of e-commerce to reach customer’s preferences and selling.mp4
+[2025-02-05 15:12:09] ✅ Duration: 0 hours 9 minutes and 17 seconds
+[2025-02-05 15:12:09] 🎬 Processing: Chapter 6C - How to pack candles.mp4
+[2025-02-05 15:12:09] ✅ Duration: 0 hours 5 minutes and 12 seconds
+[2025-02-05 15:12:09] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle making No music': 3 hours 6 minutes and 36 seconds [UID: 757857eed9]
+[2025-02-05 15:12:09] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music [UID: 0597352f00]
+[2025-02-05 15:12:09] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music': 0 hours 0 minutes and 0 seconds [UID: 0597352f00]
+[2025-02-05 15:12:09] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 1 - Introduction [UID: 314a69d146]
+[2025-02-05 15:12:09] 🎬 Processing: Chapter 1A - Introduction.mp4
+[2025-02-05 15:12:10] ✅ Duration: 0 hours 24 minutes and 48 seconds
+[2025-02-05 15:12:10] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 1 - Introduction': 0 hours 24 minutes and 48 seconds [UID: 314a69d146]
+[2025-02-05 15:12:10] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 2 - Raw materials tools and equipment [UID: 42320bcb6c]
+[2025-02-05 15:12:10] 🎬 Processing: Chapter 2A - How to select the right kind of molds.mp4
+[2025-02-05 15:12:10] ✅ Duration: 0 hours 12 minutes and 8 seconds
+[2025-02-05 15:12:10] 🎬 Processing: Chapter 2B - Knowledge on equipment and raw materials required and their procurement.mp4
+[2025-02-05 15:12:11] ✅ Duration: 0 hours 12 minutes and 29 seconds
+[2025-02-05 15:12:11] 🎬 Processing: Chapter 2C - Method of wick selection for different types of molds.mp4
+[2025-02-05 15:12:12] ✅ Duration: 0 hours 4 minutes and 24 seconds
+[2025-02-05 15:12:12] 🎬 Processing: Chapter 2D - Types of fragrances used , use of colours pigments.mp4
+[2025-02-05 15:12:12] ✅ Duration: 0 hours 9 minutes and 21 seconds
+[2025-02-05 15:12:12] 🎬 Processing: Chapter 2E - Types of waxes.mp4
+[2025-02-05 15:12:13] ✅ Duration: 0 hours 9 minutes and 21 seconds
+[2025-02-05 15:12:13] 🎬 Processing: Chapter 2F - Types of wicks - Different sizes and thickness etc.mp4
+[2025-02-05 15:12:13] ✅ Duration: 0 hours 6 minutes and 12 seconds
+[2025-02-05 15:12:13] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 2 - Raw materials tools and equipment': 0 hours 53 minutes and 57 seconds [UID: 42320bcb6c]
+[2025-02-05 15:12:13] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 3 - Preparation and making of wax candle [UID: 587fa6975c]
+[2025-02-05 15:12:13] 🎬 Processing: Chapter 3A - Wax candle Preparation.mp4
+[2025-02-05 15:12:14] ✅ Duration: 0 hours 12 minutes and 49 seconds
+[2025-02-05 15:12:14] 🎬 Processing: Chapter 3B - Paraffin - Wax candle Preparation.mp4
+[2025-02-05 15:12:14] ✅ Duration: 0 hours 13 minutes and 58 seconds
+[2025-02-05 15:12:14] 🎬 Processing: Chapter 3C - Soy Wax candle Preparation.mp4
+[2025-02-05 15:12:15] ✅ Duration: 0 hours 16 minutes and 2 seconds
+[2025-02-05 15:12:15] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 3 - Preparation and making of wax candle': 0 hours 42 minutes and 50 seconds [UID: 587fa6975c]
+[2025-02-05 15:12:15] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 4 - Different Types of candles [UID: 5fa66e2897]
+[2025-02-05 15:12:15] 🎬 Processing: Chapter 4A - Different Types of candles.mp4
+[2025-02-05 15:12:15] ✅ Duration: 0 hours 7 minutes and 24 seconds
+[2025-02-05 15:12:15] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 4 - Different Types of candles': 0 hours 7 minutes and 24 seconds [UID: 5fa66e2897]
+[2025-02-05 15:12:15] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 5 - Top candle trends and their making procedure [UID: dfc17be155]
+[2025-02-05 15:12:15] 🎬 Processing: Chapter 5A - Top Candle Trends and their making procedure.mp4
+[2025-02-05 15:12:16] ✅ Duration: 0 hours 17 minutes and 53 seconds
+[2025-02-05 15:12:16] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 5 - Top candle trends and their making procedure': 0 hours 17 minutes and 53 seconds [UID: dfc17be155]
+[2025-02-05 15:12:16] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 6 - Final Presentation and Marketing [UID: 55ca821b64]
+[2025-02-05 15:12:16] 🎬 Processing: Chapter 6A - Easy way of taking the candle from molds.mp4
+[2025-02-05 15:12:16] ✅ Duration: 0 hours 25 minutes and 11 seconds
+[2025-02-05 15:12:16] 🎬 Processing: Chapter 6B - Final Presentation  and Use of e-commerce.mp4
+[2025-02-05 15:12:17] ✅ Duration: 0 hours 9 minutes and 17 seconds
+[2025-02-05 15:12:17] 🎬 Processing: Chapter 6C - How to pack candles.mp4
+[2025-02-05 15:12:18] ✅ Duration: 0 hours 5 minutes and 12 seconds
+[2025-02-05 15:12:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 6 - Final Presentation and Marketing': 0 hours 39 minutes and 41 seconds [UID: 55ca821b64]
+[2025-02-05 15:12:18] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P [UID: d2e9a8e32b]
+[2025-02-05 15:12:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P': 0 hours 0 minutes and 0 seconds [UID: d2e9a8e32b]
+[2025-02-05 15:12:18] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 1 - Basic Electric and Electronics Engineering - Basic Working concepts [UID: 3183f4ddb8]
+[2025-02-05 15:12:18] 🎬 Processing: Chapter 1A - Basic electric and electronics engineering basic working concepts.mp4
+[2025-02-05 15:12:18] ✅ Duration: 0 hours 10 minutes and 39 seconds
+[2025-02-05 15:12:18] 🎬 Processing: Chapter 1B - Basic electric and electronics engineering basic working concepts.mp4
+[2025-02-05 15:12:19] ✅ Duration: 0 hours 1 minutes and 12 seconds
+[2025-02-05 15:12:19] 🎬 Processing: Chapter 1C - Basic electric and electronics engineering basic working concepts.mp4
+[2025-02-05 15:12:19] ✅ Duration: 0 hours 4 minutes and 40 seconds
+[2025-02-05 15:12:19] 🎬 Processing: Chapter 1D - Basic electric and electronics engineering basic working concepts.mp3.mp4
+[2025-02-05 15:12:20] ✅ Duration: 0 hours 4 minutes and 27 seconds
+[2025-02-05 15:12:20] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 1 - Basic Electric and Electronics Engineering - Basic Working concepts': 0 hours 21 minutes and 0 seconds [UID: 3183f4ddb8]
+[2025-02-05 15:12:20] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 2 - Parts of Inverter and UPS [UID: 8925cfa9c5]
+[2025-02-05 15:12:20] 🎬 Processing: Chapter 2A - Parts of Inverter and UPS.mp4
+[2025-02-05 15:12:20] ✅ Duration: 0 hours 10 minutes and 37 seconds
+[2025-02-05 15:12:20] 🎬 Processing: Chapter 2B - Parts of Inverter and UPS.mp4
+[2025-02-05 15:12:21] ✅ Duration: 0 hours 10 minutes and 25 seconds
+[2025-02-05 15:12:21] 🎬 Processing: Chapter 2C - Parts of Inverter and UPS.mp4
+[2025-02-05 15:12:21] ✅ Duration: 0 hours 6 minutes and 0 seconds
+[2025-02-05 15:12:21] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 2 - Parts of Inverter and UPS': 0 hours 27 minutes and 2 seconds [UID: 8925cfa9c5]
+[2025-02-05 15:12:21] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 3 - PCB Components, Diagram and its working [UID: 1815f69354]
+[2025-02-05 15:12:21] 🎬 Processing: Chapter 3A - PCB Rooting.mp4
+[2025-02-05 15:12:22] ✅ Duration: 0 hours 20 minutes and 2 seconds
+[2025-02-05 15:12:22] 🎬 Processing: Chapter 3B - PCB Component pick and placement.mp4
+[2025-02-05 15:12:22] ✅ Duration: 0 hours 14 minutes and 26 seconds
+[2025-02-05 15:12:22] 🎬 Processing: Chapter 3C - PCB Components.mp4
+[2025-02-05 15:12:23] ✅ Duration: 0 hours 11 minutes and 38 seconds
+[2025-02-05 15:12:23] 🎬 Processing: Chapter 3D - Manual soldering.mp4
+[2025-02-05 15:12:23] ✅ Duration: 0 hours 14 minutes and 20 seconds
+[2025-02-05 15:12:23] 🎬 Processing: Chapter 3E - PCB Soldering paste.mp4
+[2025-02-05 15:12:24] ✅ Duration: 0 hours 13 minutes and 36 seconds
+[2025-02-05 15:12:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 3 - PCB Components, Diagram and its working': 1 hours 14 minutes and 4 seconds [UID: 1815f69354]
+[2025-02-05 15:12:24] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 4 - Invertor Parts and Wiring [UID: d660face80]
+[2025-02-05 15:12:24] 🎬 Processing: Chapter 4A - Invertor parts and wiring.mp4
+[2025-02-05 15:12:24] ✅ Duration: 0 hours 7 minutes and 28 seconds
+[2025-02-05 15:12:24] 🎬 Processing: Chapter 4B - B Inventor parts and wiring.mp4
+[2025-02-05 15:12:25] ✅ Duration: 0 hours 5 minutes and 16 seconds
+[2025-02-05 15:12:25] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 4 - Invertor Parts and Wiring': 0 hours 12 minutes and 44 seconds [UID: d660face80]
+[2025-02-05 15:12:25] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 5 - Assembling and installing UPS [UID: 66226bc9ee]
+[2025-02-05 15:12:25] 🎬 Processing: Chapter 5A - Assembling and installing ups.mp4
+[2025-02-05 15:12:26] ✅ Duration: 0 hours 11 minutes and 57 seconds
+[2025-02-05 15:12:26] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 5 - Assembling and installing UPS': 0 hours 11 minutes and 57 seconds [UID: 66226bc9ee]
+[2025-02-05 15:12:26] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 6 - Repairing dysfunctional UPS [UID: 87ec7458fd]
+[2025-02-05 15:12:26] 🎬 Processing: Chapter 6A - Repairing dysfunctional UPS.mp4
+[2025-02-05 15:12:26] ✅ Duration: 0 hours 15 minutes and 17 seconds
+[2025-02-05 15:12:26] 🎬 Processing: Chapter 6B - Repairing dysfunctional UPS.mp4
+[2025-02-05 15:12:27] ✅ Duration: 0 hours 18 minutes and 25 seconds
+[2025-02-05 15:12:27] 🎬 Processing: Chapter 6C - New test Repairing dysfunctional UPS.mp4
+[2025-02-05 15:12:27] ✅ Duration: 0 hours 16 minutes and 52 seconds
+[2025-02-05 15:12:27] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 6 - Repairing dysfunctional UPS': 0 hours 50 minutes and 36 seconds [UID: 87ec7458fd]
+[2025-02-05 15:12:27] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 7 - Selection and Management of equipment and Tools [UID: bc94f4a25b]
+[2025-02-05 15:12:27] 🎬 Processing: Chapter 7A - Designing PCB Using KI cad software.mp4
+[2025-02-05 15:12:28] ✅ Duration: 0 hours 9 minutes and 23 seconds
+[2025-02-05 15:12:28] 🎬 Processing: Chapter 7B - KICAD Software - 1.mp4
+[2025-02-05 15:12:29] ✅ Duration: 0 hours 26 minutes and 56 seconds
+[2025-02-05 15:12:29] 🎬 Processing: Chapter 7C - KICAD Software - 2.mp4
+[2025-02-05 15:12:30] ✅ Duration: 0 hours 13 minutes and 30 seconds
+[2025-02-05 15:12:30] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 7 - Selection and Management of equipment and Tools': 0 hours 49 minutes and 49 seconds [UID: bc94f4a25b]
+[2025-02-05 15:12:30] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 8 - Making of Different types of batteries in 21st century [UID: c2502c7b4e]
+[2025-02-05 15:12:30] 🎬 Processing: Chapter 8A - Battery assembling.mp4
+[2025-02-05 15:12:30] ✅ Duration: 0 hours 4 minutes and 50 seconds
+[2025-02-05 15:12:30] 🎬 Processing: Chapter 8B - Battery.mp4
+[2025-02-05 15:12:31] ✅ Duration: 0 hours 14 minutes and 37 seconds
+[2025-02-05 15:12:31] 🎬 Processing: Chapter 8C - Chemistry of batteries.mp4
+[2025-02-05 15:12:31] ✅ Duration: 0 hours 15 minutes and 29 seconds
+[2025-02-05 15:12:31] 🎬 Processing: Chapter 8D - Chemistry of batteries.mp4
+[2025-02-05 15:12:32] ✅ Duration: 0 hours 10 minutes and 13 seconds
+[2025-02-05 15:12:32] 🎬 Processing: Chapter 8E - Characteristics of batteries.mp4
+[2025-02-05 15:12:32] ✅ Duration: 0 hours 4 minutes and 18 seconds
+[2025-02-05 15:12:32] 🎬 Processing: Chapter 8F - Utilization of batteries.mp4
+[2025-02-05 15:12:33] ✅ Duration: 0 hours 7 minutes and 49 seconds
+[2025-02-05 15:12:33] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 8 - Making of Different types of batteries in 21st century': 0 hours 57 minutes and 18 seconds [UID: c2502c7b4e]
+[2025-02-05 15:12:33] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 9 - Battery Management System [UID: b3104df8bb]
+[2025-02-05 15:12:33] 🎬 Processing: Chapter 9A - Battery management system.mp4
+[2025-02-05 15:12:34] ✅ Duration: 0 hours 12 minutes and 19 seconds
+[2025-02-05 15:12:34] 🎬 Processing: Chapter 9B - Battery management system.mp4
+[2025-02-05 15:12:34] ✅ Duration: 0 hours 12 minutes and 39 seconds
+[2025-02-05 15:12:34] 🎬 Processing: Chapter 9C - Battery management system.mp4
+[2025-02-05 15:12:35] ✅ Duration: 0 hours 17 minutes and 58 seconds
+[2025-02-05 15:12:35] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 9 - Battery Management System': 0 hours 42 minutes and 57 seconds [UID: b3104df8bb]
+[2025-02-05 15:12:35] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P [UID: 54de48832d]
+[2025-02-05 15:12:35] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P': 0 hours 0 minutes and 0 seconds [UID: 54de48832d]
+[2025-02-05 15:12:35] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-1 Fundamentals Of Hand Embroidery [UID: 00f9008828]
+[2025-02-05 15:12:35] 🎬 Processing: 1A- Introduction To Hand Embroidery.mp4
+[2025-02-05 15:12:36] ✅ Duration: 0 hours 1 minutes and 9 seconds
+[2025-02-05 15:12:36] 🎬 Processing: 1B- Origin Of Embroidery.mp4
+[2025-02-05 15:12:36] ✅ Duration: 0 hours 2 minutes and 0 seconds
+[2025-02-05 15:12:36] 🎬 Processing: 1C- Types Of Embroidery.mp4
+[2025-02-05 15:12:37] ✅ Duration: 0 hours 3 minutes and 33 seconds
+[2025-02-05 15:12:37] 🎬 Processing: 1D- Difference Between Machine Embroidery And Hand Embroidery.mp4
+[2025-02-05 15:12:38] ✅ Duration: 0 hours 3 minutes and 46 seconds
+[2025-02-05 15:12:38] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-1 Fundamentals Of Hand Embroidery': 0 hours 10 minutes and 29 seconds [UID: 00f9008828]
+[2025-02-05 15:12:38] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-10 Tie And Dye [UID: c7669cd772]
+[2025-02-05 15:12:38] 🎬 Processing: 10A- Different Types Of Dyes And Their Affinity To Different Fabrics.mp4
+[2025-02-05 15:12:38] ✅ Duration: 0 hours 2 minutes and 34 seconds
+[2025-02-05 15:12:38] 🎬 Processing: 10B- Spiral, Horizontal Stripes And Crumple Dyes.mp4
+[2025-02-05 15:12:39] ✅ Duration: 0 hours 18 minutes and 7 seconds
+[2025-02-05 15:12:39] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-10 Tie And Dye': 0 hours 20 minutes and 41 seconds [UID: c7669cd772]
+[2025-02-05 15:12:39] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-11 Printing Techniques [UID: 8b1b8de771]
+[2025-02-05 15:12:39] 🎬 Processing: 11A- Stencil Printing Tools And Introduction.mp4
+[2025-02-05 15:12:39] ✅ Duration: 0 hours 1 minutes and 8 seconds
+[2025-02-05 15:12:39] 🎬 Processing: 11B- Stencil Printing On Different Articles Like, Bed Covers, Dresses Etc.,.mp4
+[2025-02-05 15:12:40] ✅ Duration: 0 hours 8 minutes and 31 seconds
+[2025-02-05 15:12:40] 🎬 Processing: 11C- Methods For Batik Printing On Different Articles Like, Bed Covers, Dresses.mp4
+[2025-02-05 15:12:41] ✅ Duration: 0 hours 11 minutes and 1 seconds
+[2025-02-05 15:12:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-11 Printing Techniques': 0 hours 20 minutes and 41 seconds [UID: 8b1b8de771]
+[2025-02-05 15:12:41] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-2 Raw Materials Tools And Equipment [UID: d8ff9003ce]
+[2025-02-05 15:12:41] 🎬 Processing: 2A- Embroidery Tools.mp4
+[2025-02-05 15:12:41] ✅ Duration: 0 hours 19 minutes and 18 seconds
+[2025-02-05 15:12:41] 🎬 Processing: 2B- Tracing Methods Using Carbon Paper, Tracing Sheet And Chart Powder.mp4
+[2025-02-05 15:12:42] ✅ Duration: 0 hours 31 minutes and 0 seconds
+[2025-02-05 15:12:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-2 Raw Materials Tools And Equipment': 0 hours 50 minutes and 18 seconds [UID: d8ff9003ce]
+[2025-02-05 15:12:42] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-3 Basic Embroidery Stiches-Run, Loop, Knot Stitches [UID: d8ee485b0a]
+[2025-02-05 15:12:42] 🎬 Processing: 3A- Run Stitch And Its Variations.mp4
+[2025-02-05 15:12:43] ✅ Duration: 0 hours 15 minutes and 6 seconds
+[2025-02-05 15:12:43] 🎬 Processing: 3B- Back Stich And Its Variations.mp4
+[2025-02-05 15:12:43] ✅ Duration: 0 hours 3 minutes and 46 seconds
+[2025-02-05 15:12:43] 🎬 Processing: 3C- Stem Stitch And Its Variations.mp4
+[2025-02-05 15:12:44] ✅ Duration: 0 hours 4 minutes and 36 seconds
+[2025-02-05 15:12:44] 🎬 Processing: 3D- Cross Stitch And Its Variations.mp4
+[2025-02-05 15:12:45] ✅ Duration: 0 hours 2 minutes and 50 seconds
+[2025-02-05 15:12:45] 🎬 Processing: 3E- Herringbone Stitch And Its Variations.mp4
+[2025-02-05 15:12:45] ✅ Duration: 0 hours 8 minutes and 35 seconds
+[2025-02-05 15:12:45] 🎬 Processing: 3F- Satin Stitch And Its Variations.mp4
+[2025-02-05 15:12:46] ✅ Duration: 0 hours 4 minutes and 11 seconds
+[2025-02-05 15:12:46] 🎬 Processing: 3G- Chain Stitch And Its Variations.mp4
+[2025-02-05 15:12:46] ✅ Duration: 0 hours 16 minutes and 51 seconds
+[2025-02-05 15:12:46] 🎬 Processing: 3H- Knotted Stitch And Its Variations.mp4
+[2025-02-05 15:12:47] ✅ Duration: 0 hours 15 minutes and 1 seconds
+[2025-02-05 15:12:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-3 Basic Embroidery Stiches-Run, Loop, Knot Stitches': 1 hours 11 minutes and 0 seconds [UID: d8ee485b0a]
+[2025-02-05 15:12:47] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-4 Design With Combination Of Stitches And Edge Finishing Techniques [UID: 1bb98baf9a]
+[2025-02-05 15:12:47] 🎬 Processing: 4A- Border, Button Hole, Pekinese and Whipped Stitches.mp4
+[2025-02-05 15:12:48] ✅ Duration: 0 hours 17 minutes and 49 seconds
+[2025-02-05 15:12:48] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-4 Design With Combination Of Stitches And Edge Finishing Techniques': 0 hours 17 minutes and 49 seconds [UID: 1bb98baf9a]
+[2025-02-05 15:12:48] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-5 Decorative Stitches By Hand [UID: 1e848ee712]
+[2025-02-05 15:12:48] 🎬 Processing: 5A- Weaving Stitches.mp4
+[2025-02-05 15:12:48] ✅ Duration: 0 hours 9 minutes and 0 seconds
+[2025-02-05 15:12:48] 🎬 Processing: 5B- Feather Stiches.mp4
+[2025-02-05 15:12:49] ✅ Duration: 0 hours 1 minutes and 41 seconds
+[2025-02-05 15:12:49] 🎬 Processing: 5C- Fishbone Stitches.mp4
+[2025-02-05 15:12:50] ✅ Duration: 0 hours 3 minutes and 42 seconds
+[2025-02-05 15:12:50] 🎬 Processing: 5D- Fly Stitch.mp4
+[2025-02-05 15:12:50] ✅ Duration: 0 hours 2 minutes and 5 seconds
+[2025-02-05 15:12:50] 🎬 Processing: 5E- Leaf Stitch.mp4
+[2025-02-05 15:12:51] ✅ Duration: 0 hours 2 minutes and 26 seconds
+[2025-02-05 15:12:51] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-5 Decorative Stitches By Hand': 0 hours 18 minutes and 56 seconds [UID: 1e848ee712]
+[2025-02-05 15:12:51] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-6 Application Of Traditional Embroidery [UID: 2404234d8a]
+[2025-02-05 15:12:51] 🎬 Processing: 6A- Kantha Work Of Bengal.mp4
+[2025-02-05 15:12:52] ✅ Duration: 0 hours 3 minutes and 36 seconds
+[2025-02-05 15:12:52] 🎬 Processing: 6B- Kutch Work Of Gujarat.mp4
+[2025-02-05 15:12:52] ✅ Duration: 0 hours 5 minutes and 5 seconds
+[2025-02-05 15:12:52] 🎬 Processing: 6C- Chikankari Work Of Lucknow.mp4
+[2025-02-05 15:12:53] ✅ Duration: 0 hours 6 minutes and 3 seconds
+[2025-02-05 15:12:53] 🎬 Processing: 6D- Kadai Kamal Work Of Andhra Pradesh.mp4
+[2025-02-05 15:12:54] ✅ Duration: 0 hours 8 minutes and 49 seconds
+[2025-02-05 15:12:54] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-6 Application Of Traditional Embroidery': 0 hours 23 minutes and 35 seconds [UID: 2404234d8a]
+[2025-02-05 15:12:54] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-7 Embellishment Works For Textile [UID: 12e664bbea]
+[2025-02-05 15:12:54] 🎬 Processing: 7A- Shadow Work.mp4
+[2025-02-05 15:12:54] ✅ Duration: 0 hours 2 minutes and 37 seconds
+[2025-02-05 15:12:54] 🎬 Processing: 7B- Mirror Work.mp4
+[2025-02-05 15:12:55] ✅ Duration: 0 hours 9 minutes and 25 seconds
+[2025-02-05 15:12:55] 🎬 Processing: 7C- Smocking Work.mp4
+[2025-02-05 15:12:56] ✅ Duration: 0 hours 16 minutes and 14 seconds
+[2025-02-05 15:12:56] 🎬 Processing: 7D- Smocking Work In Embroidery.mp4
+[2025-02-05 15:12:56] ✅ Duration: 0 hours 9 minutes and 10 seconds
+[2025-02-05 15:12:56] 🎬 Processing: 7E- Cut Work.mp4
+[2025-02-05 15:12:57] ✅ Duration: 0 hours 5 minutes and 45 seconds
+[2025-02-05 15:12:57] 🎬 Processing: 7F- Bead And Sequins Work.mp4
+[2025-02-05 15:12:57] ✅ Duration: 0 hours 5 minutes and 12 seconds
+[2025-02-05 15:12:57] 🎬 Processing: 7G- Applique Work.mp4
+[2025-02-05 15:12:58] ✅ Duration: 0 hours 6 minutes and 54 seconds
+[2025-02-05 15:12:58] 🎬 Processing: 7H- Ribbon Work.mp4
+[2025-02-05 15:12:59] ✅ Duration: 0 hours 11 minutes and 2 seconds
+[2025-02-05 15:12:59] 🎬 Processing: 7I- Zardosi Work.mp4
+[2025-02-05 15:12:59] ✅ Duration: 0 hours 5 minutes and 33 seconds
+[2025-02-05 15:12:59] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-7 Embellishment Works For Textile': 1 hours 11 minutes and 57 seconds [UID: 12e664bbea]
+[2025-02-05 15:12:59] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-8 Fundamentals Of Painting Dyeing And Printing [UID: b9f4079430]
+[2025-02-05 15:12:59] 🎬 Processing: 8A- Types Of Colours, Primary, Secondary.mp4
+[2025-02-05 15:13:00] ✅ Duration: 0 hours 2 minutes and 16 seconds
+[2025-02-05 15:13:00] 🎬 Processing: 8B- Foundation Of Painting.mp4
+[2025-02-05 15:13:00] ✅ Duration: 0 hours 1 minutes and 52 seconds
+[2025-02-05 15:13:00] 🎬 Processing: 8C- Create Depth And Textures.mp4
+[2025-02-05 15:13:01] ✅ Duration: 0 hours 1 minutes and 9 seconds
+[2025-02-05 15:13:01] 🎬 Processing: 8D- Colour Theory.mp4
+[2025-02-05 15:13:02] ✅ Duration: 0 hours 0 minutes and 52 seconds
+[2025-02-05 15:13:02] 🎬 Processing: 8E- Understanding Proportions And Perspectives.mp4
+[2025-02-05 15:13:02] ✅ Duration: 0 hours 1 minutes and 8 seconds
+[2025-02-05 15:13:02] 🎬 Processing: 8F- Types Of Brushes.mp4
+[2025-02-05 15:13:03] ✅ Duration: 0 hours 0 minutes and 54 seconds
+[2025-02-05 15:13:03] 🎬 Processing: 8G- Lighting.mp4
+[2025-02-05 15:13:04] ✅ Duration: 0 hours 1 minutes and 27 seconds
+[2025-02-05 15:13:04] 🎬 Processing: 8H- Creating Contrast, Depth And Emotion In Colour.mp4
+[2025-02-05 15:13:04] ✅ Duration: 0 hours 2 minutes and 48 seconds
+[2025-02-05 15:13:04] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-8 Fundamentals Of Painting Dyeing And Printing': 0 hours 12 minutes and 30 seconds [UID: b9f4079430]
+[2025-02-05 15:13:04] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-9 Different Painting Techniques [UID: a3af25d572]
+[2025-02-05 15:13:04] 🎬 Processing: 9A- Fabric Painting- Applicability And Materials Required.mp4
+[2025-02-05 15:13:05] ✅ Duration: 0 hours 5 minutes and 24 seconds
+[2025-02-05 15:13:05] 🎬 Processing: 9B- Colour Mixing, Brushes And Shading Techniques.mp4
+[2025-02-05 15:13:06] ✅ Duration: 0 hours 25 minutes and 47 seconds
+[2025-02-05 15:13:06] 🎬 Processing: 9C- Selection Of Clothes.mp4
+[2025-02-05 15:13:07] ✅ Duration: 0 hours 4 minutes and 56 seconds
+[2025-02-05 15:13:07] 🎬 Processing: 9D- Nib Painting.mp4
+[2025-02-05 15:13:07] ✅ Duration: 0 hours 8 minutes and 0 seconds
+[2025-02-05 15:13:07] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-9 Different Painting Techniques': 0 hours 44 minutes and 8 seconds [UID: a3af25d572]
+[2025-02-05 15:13:07] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE) [UID: fd98156f2c]
+[2025-02-05 15:13:07] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)': 0 hours 0 minutes and 0 seconds [UID: fd98156f2c]
+[2025-02-05 15:13:07] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens Tailoring HI-F-6H-7P [UID: 2ae194b58e]
+[2025-02-05 15:13:07] 🎬 Processing: Chapter 10A - Princess Cut Blouse Drafting & Cutting.mp4
+[2025-02-05 15:13:08] ✅ Duration: 0 hours 15 minutes and 12 seconds
+[2025-02-05 15:13:08] 🎬 Processing: Chapter 10B - Princess Cut Blouse Sewing.mp4
+[2025-02-05 15:13:08] ✅ Duration: 0 hours 22 minutes and 21 seconds
+[2025-02-05 15:13:08] 🎬 Processing: Chapter 11A - Kurti Drafting & Cutting-.mp4
+[2025-02-05 15:13:09] ✅ Duration: 0 hours 13 minutes and 52 seconds
+[2025-02-05 15:13:09] 🎬 Processing: Chapter 11B - Kurti Sewing.mp4
+[2025-02-05 15:13:09] ✅ Duration: 0 hours 19 minutes and 58 seconds
+[2025-02-05 15:13:09] 🎬 Processing: Chapter 12A - Ladies Pant Drafting & Cutting.mp4
+[2025-02-05 15:13:10] ✅ Duration: 0 hours 11 minutes and 42 seconds
+[2025-02-05 15:13:10] 🎬 Processing: Chapter 12B - Ladies Pant Sewing.mp4
+[2025-02-05 15:13:10] ✅ Duration: 0 hours 25 minutes and 43 seconds
+[2025-02-05 15:13:10] 🎬 Processing: Chapter 1A - Introduction To Tailoring.mp4
+[2025-02-05 15:13:11] ✅ Duration: 0 hours 14 minutes and 14 seconds
+[2025-02-05 15:13:11] 🎬 Processing: Chapter 2A - Introduction To Sewing Machine-.mp4
+[2025-02-05 15:13:11] ✅ Duration: 0 hours 13 minutes and 58 seconds
+[2025-02-05 15:13:11] 🎬 Processing: Chapter 2B - Sewing Machine Basic Understanding-.mp4
+[2025-02-05 15:13:12] ✅ Duration: 0 hours 28 minutes and 46 seconds
+[2025-02-05 15:13:12] 🎬 Processing: Chapter 3A - Types Of Fabric And Raw Materials-.mp4
+[2025-02-05 15:13:12] ✅ Duration: 0 hours 11 minutes and 4 seconds
+[2025-02-05 15:13:12] 🎬 Processing: Chapter 4A - Types Of Stiches.mp4
+[2025-02-05 15:13:13] ✅ Duration: 0 hours 17 minutes and 17 seconds
+[2025-02-05 15:13:13] 🎬 Processing: Chapter 5A - Mesurement Basics.mp4
+[2025-02-05 15:13:13] ✅ Duration: 0 hours 16 minutes and 19 seconds
+[2025-02-05 15:13:13] 🎬 Processing: Chapter 6A - Petty Coat Drafting Cutting.mp4
+[2025-02-05 15:13:14] ✅ Duration: 0 hours 8 minutes and 15 seconds
+[2025-02-05 15:13:14] 🎬 Processing: Chapter 6B - Petty Coat Sewing.mp4
+[2025-02-05 15:13:14] ✅ Duration: 0 hours 25 minutes and 10 seconds
+[2025-02-05 15:13:14] 🎬 Processing: Chapter 7A - Umbrella Frock Drafting & Cutting.mp4
+[2025-02-05 15:13:15] ✅ Duration: 0 hours 20 minutes and 58 seconds
+[2025-02-05 15:13:15] 🎬 Processing: Chapter 7B - Umbrella Frock Sewing.mp4
+[2025-02-05 15:13:15] ✅ Duration: 0 hours 28 minutes and 21 seconds
+[2025-02-05 15:13:15] 🎬 Processing: Chapter 8A - Nighty Drafting & Cutting.mp4
+[2025-02-05 15:13:16] ✅ Duration: 0 hours 16 minutes and 19 seconds
+[2025-02-05 15:13:16] 🎬 Processing: Chapter 8B - Nighty Sewing.mp4
+[2025-02-05 15:13:16] ✅ Duration: 0 hours 18 minutes and 52 seconds
+[2025-02-05 15:13:16] 🎬 Processing: Chapter 9A - Blouse Drafting & Cutting.mp4
+[2025-02-05 15:13:17] ✅ Duration: 0 hours 17 minutes and 17 seconds
+[2025-02-05 15:13:17] 🎬 Processing: Chapter 9B - Blouse Sewing.mp4
+[2025-02-05 15:13:17] ✅ Duration: 0 hours 43 minutes and 59 seconds
+[2025-02-05 15:13:17] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens Tailoring HI-F-6H-7P': 6 hours 29 minutes and 48 seconds [UID: 2ae194b58e]
+[2025-02-05 15:13:17] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P [UID: b1ad700ceb]
+[2025-02-05 15:13:17] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P': 0 hours 0 minutes and 0 seconds [UID: b1ad700ceb]
+[2025-02-05 15:13:17] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 1 - Tailoring Parts Expirement [UID: f4dc3be4ed]
+[2025-02-05 15:13:17] 🎬 Processing: Chapter 1 - Tailoring Parts Expirement.mp4
+[2025-02-05 15:13:18] ✅ Duration: 0 hours 16 minutes and 5 seconds
+[2025-02-05 15:13:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 1 - Tailoring Parts Expirement': 0 hours 16 minutes and 5 seconds [UID: f4dc3be4ed]
+[2025-02-05 15:13:18] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 10 chudidhar pant [UID: e4a5a3f729]
+[2025-02-05 15:13:18] 🎬 Processing: Chapter 10A - Chudithar Pant Measurement-_1.mp4
+[2025-02-05 15:13:18] ✅ Duration: 0 hours 3 minutes and 2 seconds
+[2025-02-05 15:13:18] 🎬 Processing: Chapter 10B.mp4
+[2025-02-05 15:13:19] ✅ Duration: 0 hours 27 minutes and 26 seconds
+[2025-02-05 15:13:19] 🎬 Processing: Chapter 10C - (Chudithar Pant Cutting).mp4
+[2025-02-05 15:13:19] ✅ Duration: 0 hours 4 minutes and 18 seconds
+[2025-02-05 15:13:19] 🎬 Processing: Chapter 10D - Chudithar Pant Striching.mp4
+[2025-02-05 15:13:20] ✅ Duration: 0 hours 21 minutes and 47 seconds
+[2025-02-05 15:13:20] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 10 chudidhar pant': 0 hours 56 minutes and 34 seconds [UID: e4a5a3f729]
+[2025-02-05 15:13:20] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 11 inskirt [UID: eeb4bffbd6]
+[2025-02-05 15:13:20] 🎬 Processing: Chapter 11A - pattern drafting (InSkirt).mp4
+[2025-02-05 15:13:20] ✅ Duration: 0 hours 11 minutes and 10 seconds
+[2025-02-05 15:13:20] 🎬 Processing: Chapter 11B - Inskrit Cutting.mp4
+[2025-02-05 15:13:21] ✅ Duration: 0 hours 11 minutes and 48 seconds
+[2025-02-05 15:13:21] 🎬 Processing: Chapter 11C - Inskirt Striching.mp4
+[2025-02-05 15:13:21] ✅ Duration: 0 hours 4 minutes and 1 seconds
+[2025-02-05 15:13:21] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 11 inskirt': 0 hours 26 minutes and 59 seconds [UID: eeb4bffbd6]
+[2025-02-05 15:13:21] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 2 - Tailoring Variation [UID: 1ff2bf3b0c]
+[2025-02-05 15:13:21] 🎬 Processing: Chapter 2 - Tailoring Variation.mp4
+[2025-02-05 15:13:22] ✅ Duration: 0 hours 9 minutes and 17 seconds
+[2025-02-05 15:13:22] 🎬 Processing: Chapter 2a.mp4
+[2025-02-05 15:13:22] ✅ Duration: 0 hours 19 minutes and 13 seconds
+[2025-02-05 15:13:22] 🎬 Processing: Chapter 2b.mp4
+[2025-02-05 15:13:22] ✅ Duration: 0 hours 3 minutes and 8 seconds
+[2025-02-05 15:13:22] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 2 - Tailoring Variation': 0 hours 31 minutes and 39 seconds [UID: 1ff2bf3b0c]
+[2025-02-05 15:13:23] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 3 types of fabrics and raw materials [UID: 75ce91b95d]
+[2025-02-05 15:13:23] 🎬 Processing: Chapter 3 types of fabrics and raw materials.mp4
+[2025-02-05 15:13:23] ✅ Duration: 0 hours 9 minutes and 42 seconds
+[2025-02-05 15:13:23] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 3 types of fabrics and raw materials': 0 hours 9 minutes and 42 seconds [UID: 75ce91b95d]
+[2025-02-05 15:13:23] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 4 Types of stiches [UID: 9733a467d5]
+[2025-02-05 15:13:23] 🎬 Processing: 4c Frock button streching.mp4
+[2025-02-05 15:13:24] ✅ Duration: 0 hours 3 minutes and 2 seconds
+[2025-02-05 15:13:24] 🎬 Processing: 4D Blouse streching-.mp4
+[2025-02-05 15:13:24] ✅ Duration: 0 hours 9 minutes and 36 seconds
+[2025-02-05 15:13:24] 🎬 Processing: Chapter 4A- manual machine Variety of Striches.mp4
+[2025-02-05 15:13:25] ✅ Duration: 0 hours 11 minutes and 30 seconds
+[2025-02-05 15:13:25] 🎬 Processing: Chapter 4B  Shirt Button streching-.mp4
+[2025-02-05 15:13:25] ✅ Duration: 0 hours 7 minutes and 49 seconds
+[2025-02-05 15:13:25] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 4 Types of stiches': 0 hours 31 minutes and 59 seconds [UID: 9733a467d5]
+[2025-02-05 15:13:25] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 5 - Measurement basics [UID: 7ac7855e91]
+[2025-02-05 15:13:25] 🎬 Processing: Chapter 5 - Measurement basics.mp4
+[2025-02-05 15:13:26] ✅ Duration: 0 hours 16 minutes and 56 seconds
+[2025-02-05 15:13:26] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 5 - Measurement basics': 0 hours 16 minutes and 56 seconds [UID: 7ac7855e91]
+[2025-02-05 15:13:26] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 6  Petty coat [UID: a627a0ebb9]
+[2025-02-05 15:13:26] 🎬 Processing: Chapter 6A - pattern drafting (Petty coat).mp4
+[2025-02-05 15:13:27] ✅ Duration: 0 hours 35 minutes and 25 seconds
+[2025-02-05 15:13:27] 🎬 Processing: Chapter 6B Pettycoat cutting.mp4
+[2025-02-05 15:13:27] ✅ Duration: 0 hours 8 minutes and 4 seconds
+[2025-02-05 15:13:27] 🎬 Processing: Chapter 6C - Petty coat & Frog Stiching.mp4
+[2025-02-05 15:13:28] ✅ Duration: 0 hours 28 minutes and 20 seconds
+[2025-02-05 15:13:28] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 6  Petty coat': 1 hours 11 minutes and 50 seconds [UID: a627a0ebb9]
+[2025-02-05 15:13:28] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 7 Nighty [UID: 2b1baf4705]
+[2025-02-05 15:13:28] 🎬 Processing: Chapter 7A - Nighty Measurements_1.mp4
+[2025-02-05 15:13:28] ✅ Duration: 0 hours 3 minutes and 24 seconds
+[2025-02-05 15:13:28] 🎬 Processing: Chapter 7B - pattern drafting (Nighty)-.mp4
+[2025-02-05 15:13:29] ✅ Duration: 0 hours 21 minutes and 36 seconds
+[2025-02-05 15:13:29] 🎬 Processing: Chapter 7C - Nighty cutting.mp4
+[2025-02-05 15:13:29] ✅ Duration: 0 hours 8 minutes and 30 seconds
+[2025-02-05 15:13:29] 🎬 Processing: Chapter 7D - Nighty Stiching.mp4
+[2025-02-05 15:13:30] ✅ Duration: 0 hours 40 minutes and 8 seconds
+[2025-02-05 15:13:30] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 7 Nighty': 1 hours 13 minutes and 39 seconds [UID: 2b1baf4705]
+[2025-02-05 15:13:30] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 8 Blouse [UID: 2c5e141997]
+[2025-02-05 15:13:30] 🎬 Processing: Chapter 8A- Blouse Measurement.mp4
+[2025-02-05 15:13:30] ✅ Duration: 0 hours 6 minutes and 3 seconds
+[2025-02-05 15:13:30] 🎬 Processing: Chapter 8B - pattern drafting (Blouse Measurement ).mp4
+[2025-02-05 15:13:31] ✅ Duration: 0 hours 36 minutes and 48 seconds
+[2025-02-05 15:13:31] 🎬 Processing: Chapter 8C -  Blouse Cutting.mp4
+[2025-02-05 15:13:31] ✅ Duration: 0 hours 11 minutes and 50 seconds
+[2025-02-05 15:13:31] 🎬 Processing: Chapter 8D - Blouse Striching.mp4
+[2025-02-05 15:13:32] ✅ Duration: 0 hours 17 minutes and 7 seconds
+[2025-02-05 15:13:32] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 8 Blouse': 1 hours 11 minutes and 49 seconds [UID: 2c5e141997]
+[2025-02-05 15:13:32] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 9 chudidhar [UID: 0174c1dac0]
+[2025-02-05 15:13:32] 🎬 Processing: Chapter 9A - Chudithar measurements.mp4
+[2025-02-05 15:13:32] ✅ Duration: 0 hours 3 minutes and 21 seconds
+[2025-02-05 15:13:32] 🎬 Processing: Chapter 9B - pattern drafting (chudithar Top).mp4
+[2025-02-05 15:13:33] ✅ Duration: 0 hours 25 minutes and 6 seconds
+[2025-02-05 15:13:33] 🎬 Processing: Chapter 9C - Chudithar Top Cutting.mp4
+[2025-02-05 15:13:33] ✅ Duration: 0 hours 19 minutes and 7 seconds
+[2025-02-05 15:13:33] 🎬 Processing: Chapter 9D - Chudithar Top Striching.mp4
+[2025-02-05 15:13:34] ✅ Duration: 0 hours 51 minutes and 44 seconds
+[2025-02-05 15:13:34] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 9 chudidhar': 1 hours 39 minutes and 19 seconds [UID: 0174c1dac0]
+[2025-02-05 15:13:34] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\13. Bee Keeping HI-M-5H-7P [UID: 2da83abcce]
+[2025-02-05 15:13:34] 🎬 Processing: Chapter 10A - Methodologies Adopted For Costing, Pricing.mp4
+[2025-02-05 15:13:35] ✅ Duration: 0 hours 10 minutes and 10 seconds
+[2025-02-05 15:13:35] 🎬 Processing: Chapter 10B - Packaging, Labeling & Branding.mp4
+[2025-02-05 15:13:35] ✅ Duration: 0 hours 16 minutes and 7 seconds
+[2025-02-05 15:13:35] 🎬 Processing: Chapter 11A - Different Byproducts In Bee Keeping.mp4
+[2025-02-05 15:13:36] ✅ Duration: 0 hours 9 minutes and 44 seconds
+[2025-02-05 15:13:36] 🎬 Processing: Chapter 1A - Introduction To Bee Keeping.mp4
+[2025-02-05 15:13:37] ✅ Duration: 0 hours 3 minutes and 15 seconds
+[2025-02-05 15:13:37] 🎬 Processing: Chapter 1B - Present Scenario And Prospects For Bee Keeping.mp4
+[2025-02-05 15:13:38] ✅ Duration: 0 hours 4 minutes and 19 seconds
+[2025-02-05 15:13:38] 🎬 Processing: Chapter 1C - Requirements Of Commercial Bee Keeping.mp4
+[2025-02-05 15:13:39] ✅ Duration: 0 hours 9 minutes and 23 seconds
+[2025-02-05 15:13:39] 🎬 Processing: Chapter 1D - Scope Of Bee Keeping.mp4
+[2025-02-05 15:13:40] ✅ Duration: 0 hours 3 minutes and 8 seconds
+[2025-02-05 15:13:40] 🎬 Processing: Chapter 1E - Pit Falls In Bee Keeping.mp4
+[2025-02-05 15:13:41] ✅ Duration: 0 hours 8 minutes and 57 seconds
+[2025-02-05 15:13:41] 🎬 Processing: Chapter 2A - Different Species And Strains Of Honey Bees.mp4
+[2025-02-05 15:13:42] ✅ Duration: 0 hours 10 minutes and 54 seconds
+[2025-02-05 15:13:42] 🎬 Processing: Chapter 2B - Specific Characteristics And Suitability For Geographic Condition.mp4
+[2025-02-05 15:13:42] ✅ Duration: 0 hours 7 minutes and 1 seconds
+[2025-02-05 15:13:42] 🎬 Processing: Chapter 2C - Identification And Selection Of Proper Species.mp4
+[2025-02-05 15:13:43] ✅ Duration: 0 hours 8 minutes and 27 seconds
+[2025-02-05 15:13:43] 🎬 Processing: Chapter 3A - Climatic Requirements Of Different Species.mp4
+[2025-02-05 15:13:44] ✅ Duration: 0 hours 7 minutes and 5 seconds
+[2025-02-05 15:13:44] 🎬 Processing: Chapter 3B - Preparation Of Flowering Calendar.mp4
+[2025-02-05 15:13:45] ✅ Duration: 0 hours 8 minutes and 14 seconds
+[2025-02-05 15:13:45] 🎬 Processing: Chapter 4A - Division Of Colony.mp4
+[2025-02-05 15:13:46] ✅ Duration: 0 hours 21 minutes and 19 seconds
+[2025-02-05 15:13:46] 🎬 Processing: Chapter 4B - Bee Development.mp4
+[2025-02-05 15:13:47] ✅ Duration: 0 hours 9 minutes and 34 seconds
+[2025-02-05 15:13:47] 🎬 Processing: Chapter 4C - Apiary Management.mp4
+[2025-02-05 15:13:48] ✅ Duration: 0 hours 12 minutes and 43 seconds
+[2025-02-05 15:13:48] 🎬 Processing: Chapter 4D - Hierarchy Of Honey Bees.mp4
+[2025-02-05 15:13:49] ✅ Duration: 0 hours 16 minutes and 39 seconds
+[2025-02-05 15:13:49] 🎬 Processing: Chapter 4E - Brood Balancing.mp4
+[2025-02-05 15:13:49] ✅ Duration: 0 hours 11 minutes and 30 seconds
+[2025-02-05 15:13:49] 🎬 Processing: Chapter 4F - Diseases, Pest & Predators.mp4
+[2025-02-05 15:13:50] ✅ Duration: 0 hours 17 minutes and 19 seconds
+[2025-02-05 15:13:50] 🎬 Processing: Chapter 5A - Box Number 1  Description And Demonstration Of Uses Of Different Boxes.mp4
+[2025-02-05 15:13:51] ✅ Duration: 0 hours 9 minutes and 18 seconds
+[2025-02-05 15:13:51] 🎬 Processing: Chapter 5B - Box Number 2  Description And Demonstration Of Uses Of Different Boxes.mp4
+[2025-02-05 15:13:51] ✅ Duration: 0 hours 5 minutes and 54 seconds
+[2025-02-05 15:13:51] 🎬 Processing: Chapter 5C - Box Number 3  Description And Demonstration Of Uses Of Different Boxes.mp4
+[2025-02-05 15:13:52] ✅ Duration: 0 hours 3 minutes and 25 seconds
+[2025-02-05 15:13:52] 🎬 Processing: Chapter 5D - Box Number 4  Description And Demonstration Of Uses Of Different Boxes.mp4
+[2025-02-05 15:13:53] ✅ Duration: 0 hours 6 minutes and 27 seconds
+[2025-02-05 15:13:53] 🎬 Processing: Chapter 5E - Where To Buy The Boxes.mp4
+[2025-02-05 15:13:53] ✅ Duration: 0 hours 2 minutes and 57 seconds
+[2025-02-05 15:13:53] 🎬 Processing: Chapter 5F - Cleaning Of The Boxes.mp4
+[2025-02-05 15:13:54] ✅ Duration: 0 hours 9 minutes and 17 seconds
+[2025-02-05 15:13:54] 🎬 Processing: Chapter 6A - Other Equipment's In Bee Keeping.mp4
+[2025-02-05 15:13:55] ✅ Duration: 0 hours 7 minutes and 48 seconds
+[2025-02-05 15:13:55] 🎬 Processing: Chapter 6B - Bee Keeping Gloves.mp4
+[2025-02-05 15:13:56] ✅ Duration: 0 hours 1 minutes and 44 seconds
+[2025-02-05 15:13:56] 🎬 Processing: Chapter 6C - Bee Keeping Equipment's  Bee Veil.mp4
+[2025-02-05 15:13:56] ✅ Duration: 0 hours 1 minutes and 26 seconds
+[2025-02-05 15:13:56] 🎬 Processing: Chapter 6D - Bee Keeping Equipment's  Queen Gate.mp4
+[2025-02-05 15:13:57] ✅ Duration: 0 hours 2 minutes and 49 seconds
+[2025-02-05 15:13:57] 🎬 Processing: Chapter 6E - Bee Keeping Equipment's  Feeder.mp4
+[2025-02-05 15:13:58] ✅ Duration: 0 hours 3 minutes and 18 seconds
+[2025-02-05 15:13:58] 🎬 Processing: Chapter 6F - Bee Keeping Equipment's  Plastic Comb.mp4
+[2025-02-05 15:13:58] ✅ Duration: 0 hours 4 minutes and 6 seconds
+[2025-02-05 15:13:58] 🎬 Processing: Chapter 6G - Bee Keeping Equipment's  Honey Extractor.mp4
+[2025-02-05 15:13:59] ✅ Duration: 0 hours 5 minutes and 19 seconds
+[2025-02-05 15:13:59] 🎬 Processing: Chapter 6H - Bee Keeping Equipment's  Comb Foundation Sheet.mp4
+[2025-02-05 15:14:00] ✅ Duration: 0 hours 10 minutes and 23 seconds
+[2025-02-05 15:14:00] 🎬 Processing: Chapter 6I - Bee Keeping Equipment's  Bee Smoker.mp4
+[2025-02-05 15:14:01] ✅ Duration: 0 hours 6 minutes and 12 seconds
+[2025-02-05 15:14:01] 🎬 Processing: Chapter 7A - Brood, When To Move Bees On The Crop.mp4
+[2025-02-05 15:14:01] ✅ Duration: 0 hours 9 minutes and 54 seconds
+[2025-02-05 15:14:01] 🎬 Processing: Chapter 8A - Effects Of Nectar And Pollen Properties On Honey Production.mp4
+[2025-02-05 15:14:02] ✅ Duration: 0 hours 6 minutes and 42 seconds
+[2025-02-05 15:14:02] 🎬 Processing: Chapter 8B - Colony Management During Honey Flow  And Dearth Period.mp4
+[2025-02-05 15:14:03] ✅ Duration: 0 hours 18 minutes and 32 seconds
+[2025-02-05 15:14:03] 🎬 Processing: Chapter 9A - Methods Of Harvesting And Processing Honey.mp4
+[2025-02-05 15:14:04] ✅ Duration: 0 hours 7 minutes and 9 seconds
+[2025-02-05 15:14:04] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\13. Bee Keeping HI-M-5H-7P': 5 hours 18 minutes and 47 seconds [UID: 2da83abcce]
+[2025-02-05 15:14:04] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\14. Computerized Accounting HI-M-6H-7P [UID: 4741a664c9]
+[2025-02-05 15:14:04] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\14. Computerized Accounting HI-M-6H-7P': 0 hours 0 minutes and 0 seconds [UID: 4741a664c9]
+[2025-02-05 15:14:04] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\14. Computerized Accounting HI-M-6H-7P\Computerized Accounting and Book keeping [UID: 59865d130c]
+[2025-02-05 15:14:04] 🎬 Processing: Chapter 10A -Creation group ledgers, stock details and stock inventory.mp4
+[2025-02-05 15:14:05] ✅ Duration: 0 hours 16 minutes and 53 seconds
+[2025-02-05 15:14:05] 🎬 Processing: Chapter 10B - Computing of budgets.mp4
+[2025-02-05 15:14:06] ✅ Duration: 0 hours 3 minutes and 38 seconds
+[2025-02-05 15:14:06] 🎬 Processing: Chapter 11A - Passing transactions.mp4
+[2025-02-05 15:14:06] ✅ Duration: 0 hours 3 minutes and 11 seconds
+[2025-02-05 15:14:06] 🎬 Processing: Chapter 12A - All about TDS.mp4
+[2025-02-05 15:14:07] ✅ Duration: 0 hours 21 minutes and 15 seconds
+[2025-02-05 15:14:07] 🎬 Processing: Chapter 12B - TDS entries & challan and how to use GST number for TDS transactions-.mp4
+[2025-02-05 15:14:08] ✅ Duration: 0 hours 7 minutes and 9 seconds
+[2025-02-05 15:14:08] 🎬 Processing: Chapter 13A - MS-Office and its application and usage of MS-Excel in calculation.mp4
+[2025-02-05 15:14:08] ✅ Duration: 0 hours 9 minutes and 13 seconds
+[2025-02-05 15:14:08] 🎬 Processing: Chapter 13B - Concept of internet, email, and browsing.mp4
+[2025-02-05 15:14:09] ✅ Duration: 0 hours 9 minutes and 52 seconds
+[2025-02-05 15:14:09] 🎬 Processing: Chapter 14A - MS-Excel applications.mp4
+[2025-02-05 15:14:10] ✅ Duration: 0 hours 19 minutes and 1 seconds
+[2025-02-05 15:14:10] 🎬 Processing: Chapter 15A - Automatic interest calculations.mp4
+[2025-02-05 15:14:11] ✅ Duration: 0 hours 12 minutes and 59 seconds
+[2025-02-05 15:14:11] 🎬 Processing: Chapter 16A - Creation of MIS.mp4
+[2025-02-05 15:14:12] ✅ Duration: 0 hours 12 minutes and 51 seconds
+[2025-02-05 15:14:12] 🎬 Processing: Chapter 17A - Sales procedures.mp4
+[2025-02-05 15:14:12] ✅ Duration: 0 hours 17 minutes and 48 seconds
+[2025-02-05 15:14:12] 🎬 Processing: Chapter 18A - Order processing.mp4
+[2025-02-05 15:14:13] ✅ Duration: 0 hours 4 minutes and 37 seconds
+[2025-02-05 15:14:13] 🎬 Processing: Chapter 18B - Point of sale marking, sales analysis and supplier wise company sorting.mp4
+[2025-02-05 15:14:14] ✅ Duration: 0 hours 7 minutes and 15 seconds
+[2025-02-05 15:14:14] 🎬 Processing: Chapter 19A - E-commerce, usage of job portal.mp4
+[2025-02-05 15:14:15] ✅ Duration: 0 hours 7 minutes and 39 seconds
+[2025-02-05 15:14:15] 🎬 Processing: Chapter 19B - Money transfer - online debiting and crediting.mp4
+[2025-02-05 15:14:16] ✅ Duration: 0 hours 6 minutes and 33 seconds
+[2025-02-05 15:14:16] 🎬 Processing: Chapter 1A - Accounting History.mp4
+[2025-02-05 15:14:16] ✅ Duration: 0 hours 2 minutes and 53 seconds
+[2025-02-05 15:14:16] 🎬 Processing: Chapter 1B - The concept of book keeping and its fundamental.mp4
+[2025-02-05 15:14:17] ✅ Duration: 0 hours 10 minutes and 2 seconds
+[2025-02-05 15:14:17] 🎬 Processing: Chapter 1C - Principles of accounting.mp4
+[2025-02-05 15:14:18] ✅ Duration: 0 hours 9 minutes and 51 seconds
+[2025-02-05 15:14:18] 🎬 Processing: Chapter 1D - Types of vouchers and books to be maintained.mp4
+[2025-02-05 15:14:19] ✅ Duration: 0 hours 1 minutes and 2 seconds
+[2025-02-05 15:14:19] 🎬 Processing: Chapter 1E - Types of accounts and need for accounts, single entry system & double entry system.mp4
+[2025-02-05 15:14:19] ✅ Duration: 0 hours 7 minutes and 46 seconds
+[2025-02-05 15:14:19] 🎬 Processing: Chapter 1F - Classification of accounts.mp4
+[2025-02-05 15:14:20] ✅ Duration: 0 hours 15 minutes and 2 seconds
+[2025-02-05 15:14:20] 🎬 Processing: Chapter 20A - Procurement of film tickets through e-ticketing and use of payment gateways.mp4
+[2025-02-05 15:14:21] ✅ Duration: 0 hours 7 minutes and 5 seconds
+[2025-02-05 15:14:21] 🎬 Processing: Chapter 20B - Online loan apps.mp4
+[2025-02-05 15:14:22] ✅ Duration: 0 hours 2 minutes and 2 seconds
+[2025-02-05 15:14:22] 🎬 Processing: Chapter 21A - Online application for PAN & other facilities.mp4
+[2025-02-05 15:14:23] ✅ Duration: 0 hours 4 minutes and 56 seconds
+[2025-02-05 15:14:23] 🎬 Processing: Chapter 22A - Introducing of Marg inventory software.mp4
+[2025-02-05 15:14:23] ✅ Duration: 0 hours 5 minutes and 27 seconds
+[2025-02-05 15:14:23] 🎬 Processing: Chapter 23A - Introduction to bar codes and importance of bar codes to product.mp4
+[2025-02-05 15:14:24] ✅ Duration: 0 hours 3 minutes and 40 seconds
+[2025-02-05 15:14:24] 🎬 Processing: Chapter 23B - Data import and export, multi firm billing and analysis of sales.mp4
+[2025-02-05 15:14:25] ✅ Duration: 0 hours 5 minutes and 51 seconds
+[2025-02-05 15:14:25] 🎬 Processing: Chapter 2A - Accounting rules.mp4
+[2025-02-05 15:14:25] ✅ Duration: 0 hours 14 minutes and 12 seconds
+[2025-02-05 15:14:25] 🎬 Processing: Chapter 2B - Maitenance and writing of ledgers.mp4
+[2025-02-05 15:14:26] ✅ Duration: 0 hours 6 minutes and 52 seconds
+[2025-02-05 15:14:26] 🎬 Processing: Chapter 3A - GST taxation.mp4
+[2025-02-05 15:14:27] ✅ Duration: 0 hours 22 minutes and 1 seconds
+[2025-02-05 15:14:27] 🎬 Processing: Chapter 4A - Maintenance of day book, inventory book.mp4
+[2025-02-05 15:14:27] ✅ Duration: 0 hours 7 minutes and 48 seconds
+[2025-02-05 15:14:27] 🎬 Processing: Chapter 5A - Various types of records to be mintained in small enterprises.mp4
+[2025-02-05 15:14:28] ✅ Duration: 0 hours 5 minutes and 55 seconds
+[2025-02-05 15:14:28] 🎬 Processing: Chapter 6A - Trial balance & types of accounts maintenance.mp4
+[2025-02-05 15:14:29] ✅ Duration: 0 hours 13 minutes and 5 seconds
+[2025-02-05 15:14:29] 🎬 Processing: Chapter 7A - Fundamentals of computers and introduction of microsoft office suite.mp4
+[2025-02-05 15:14:30] ✅ Duration: 0 hours 5 minutes and 12 seconds
+[2025-02-05 15:14:30] 🎬 Processing: Chapter 8A - Tally as software & its application, and different versions of Tally.mp4
+[2025-02-05 15:14:31] ✅ Duration: 0 hours 6 minutes and 8 seconds
+[2025-02-05 15:14:31] 🎬 Processing: Chapter 9A - Creation and installation procedures of Tally.mp4
+[2025-02-05 15:14:31] ✅ Duration: 0 hours 9 minutes and 32 seconds
+[2025-02-05 15:14:31] 🎬 Processing: Chapter 9B - Master creation and usage in Tally.mp4
+[2025-02-05 15:14:32] ✅ Duration: 0 hours 13 minutes and 42 seconds
+[2025-02-05 15:14:32] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\14. Computerized Accounting HI-M-6H-7P\Computerized Accounting and Book keeping': 5 hours 40 minutes and 15 seconds [UID: 59865d130c]
+[2025-02-05 15:14:32] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P [UID: b4d7863577]
+[2025-02-05 15:14:32] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P': 0 hours 0 minutes and 0 seconds [UID: b4d7863577]
+[2025-02-05 15:14:32] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 1 - Final outs [UID: 55de1e5f7c]
+[2025-02-05 15:14:32] 🎬 Processing: Chapter 1A - Introduction to basic electronics.mp4
+[2025-02-05 15:14:33] ✅ Duration: 0 hours 6 minutes and 36 seconds
+[2025-02-05 15:14:33] 🎬 Processing: Chapter 1B - GSM 2G.mp4
+[2025-02-05 15:14:33] ✅ Duration: 0 hours 5 minutes and 54 seconds
+[2025-02-05 15:14:33] 🎬 Processing: Chapter 1C - Dual Band.mp4
+[2025-02-05 15:14:34] ✅ Duration: 0 hours 2 minutes and 14 seconds
+[2025-02-05 15:14:34] 🎬 Processing: Chapter 1D - Identification of components.mp4
+[2025-02-05 15:14:34] ✅ Duration: 0 hours 3 minutes and 2 seconds
+[2025-02-05 15:14:34] 🎬 Processing: Chapter 1E - Service providers.mp4
+[2025-02-05 15:14:35] ✅ Duration: 0 hours 1 minutes and 15 seconds
+[2025-02-05 15:14:35] 🎬 Processing: Chapter 1F - Cellphone is mobile Technology.mp4
+[2025-02-05 15:14:35] ✅ Duration: 0 hours 2 minutes and 13 seconds
+[2025-02-05 15:14:35] 🎬 Processing: Chapter 1G - Mobile Technology components.mp4
+[2025-02-05 15:14:36] ✅ Duration: 0 hours 3 minutes and 21 seconds
+[2025-02-05 15:14:36] 🎬 Processing: Chapter 1H - Singnal System.mp4
+[2025-02-05 15:14:36] ✅ Duration: 0 hours 1 minutes and 34 seconds
+[2025-02-05 15:14:36] 🎬 Processing: Chapter 1I - Mobile phone display technologies.mp4
+[2025-02-05 15:14:37] ✅ Duration: 0 hours 1 minutes and 25 seconds
+[2025-02-05 15:14:37] 🎬 Processing: Chapter 1I - Mobile phone display technologies_1.mp4
+[2025-02-05 15:14:37] ✅ Duration: 0 hours 1 minutes and 25 seconds
+[2025-02-05 15:14:37] 🎬 Processing: Chapter 1J - Battery.mp4
+[2025-02-05 15:14:38] ✅ Duration: 0 hours 0 minutes and 57 seconds
+[2025-02-05 15:14:38] 🎬 Processing: Chapter 1J - Battery1.mp4
+[2025-02-05 15:14:38] ✅ Duration: 0 hours 0 minutes and 57 seconds
+[2025-02-05 15:14:38] 🎬 Processing: Chapter 1K - Antenna.mp4
+[2025-02-05 15:14:39] ✅ Duration: 0 hours 1 minutes and 0 seconds
+[2025-02-05 15:14:39] 🎬 Processing: Chapter 1L - Blackberry.mp4
+[2025-02-05 15:14:39] ✅ Duration: 0 hours 2 minutes and 32 seconds
+[2025-02-05 15:14:39] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 1 - Final outs': 0 hours 34 minutes and 32 seconds [UID: 55de1e5f7c]
+[2025-02-05 15:14:39] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 10 - Final [UID: e0eadc5790]
+[2025-02-05 15:14:39] 🎬 Processing: Chapter 10A - Android phones, software aviliable and Trouble shoot.mp4
+[2025-02-05 15:14:40] ✅ Duration: 0 hours 10 minutes and 5 seconds
+[2025-02-05 15:14:40] 🎬 Processing: Chapter 10B - Circuit and electric components.mp4
+[2025-02-05 15:14:40] ✅ Duration: 0 hours 12 minutes and 0 seconds
+[2025-02-05 15:14:40] 🎬 Processing: Chapter 10C - Freely availiable mobile phones.mp4
+[2025-02-05 15:14:41] ✅ Duration: 0 hours 7 minutes and 32 seconds
+[2025-02-05 15:14:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 10 - Final': 0 hours 29 minutes and 38 seconds [UID: e0eadc5790]
+[2025-02-05 15:14:41] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 11 - Final [UID: 7fcf67c3b8]
+[2025-02-05 15:14:41] 🎬 Processing: Chapter 11A  Software and its applications A,B,C.mp4
+[2025-02-05 15:14:41] ✅ Duration: 0 hours 16 minutes and 30 seconds
+[2025-02-05 15:14:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 11 - Final': 0 hours 16 minutes and 30 seconds [UID: 7fcf67c3b8]
+[2025-02-05 15:14:41] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 12 - Final out [UID: 928655c1bf]
+[2025-02-05 15:14:41] 🎬 Processing: Chapter 12A  - Cellphone operating systems.mp4
+[2025-02-05 15:14:42] ✅ Duration: 0 hours 13 minutes and 11 seconds
+[2025-02-05 15:14:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 12 - Final out': 0 hours 13 minutes and 11 seconds [UID: 928655c1bf]
+[2025-02-05 15:14:42] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 13 - Final [UID: 7dc73ec2f5]
+[2025-02-05 15:14:42] 🎬 Processing: Chapter 13A  - Cloud Technology.mp4
+[2025-02-05 15:14:42] ✅ Duration: 0 hours 5 minutes and 24 seconds
+[2025-02-05 15:14:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 13 - Final': 0 hours 5 minutes and 24 seconds [UID: 7dc73ec2f5]
+[2025-02-05 15:14:42] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 14 - Final [UID: 9a41c9d349]
+[2025-02-05 15:14:42] 🎬 Processing: Chapter 14A - Leading technology.mp4
+[2025-02-05 15:14:43] ✅ Duration: 0 hours 11 minutes and 57 seconds
+[2025-02-05 15:14:43] 🎬 Processing: Chapter 14B - Cross platform.mp4
+[2025-02-05 15:14:43] ✅ Duration: 0 hours 13 minutes and 47 seconds
+[2025-02-05 15:14:43] 🎬 Processing: Chapter 14C - Foldable display.mp4
+[2025-02-05 15:14:44] ✅ Duration: 0 hours 15 minutes and 22 seconds
+[2025-02-05 15:14:44] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 14 - Final': 0 hours 41 minutes and 7 seconds [UID: 9a41c9d349]
+[2025-02-05 15:14:44] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 2 - Final out [UID: c7eab3d5fe]
+[2025-02-05 15:14:44] 🎬 Processing: Chapter 2A - All components parts name.mp4
+[2025-02-05 15:14:44] ✅ Duration: 0 hours 3 minutes and 51 seconds
+[2025-02-05 15:14:44] 🎬 Processing: Chapter 2B - Types of display.mp4
+[2025-02-05 15:14:45] ✅ Duration: 0 hours 2 minutes and 30 seconds
+[2025-02-05 15:14:45] 🎬 Processing: Chapter 2C - Digital Multimeter.mp4
+[2025-02-05 15:14:45] ✅ Duration: 0 hours 6 minutes and 47 seconds
+[2025-02-05 15:14:45] 🎬 Processing: Chapter 2D - Resistors.mp4
+[2025-02-05 15:14:46] ✅ Duration: 0 hours 2 minutes and 42 seconds
+[2025-02-05 15:14:46] 🎬 Processing: Chapter 2E - Diodes and Transistors.mp4
+[2025-02-05 15:14:46] ✅ Duration: 0 hours 7 minutes and 57 seconds
+[2025-02-05 15:14:46] 🎬 Processing: Chapter 2F - Diode identification.mp4
+[2025-02-05 15:14:47] ✅ Duration: 0 hours 2 minutes and 52 seconds
+[2025-02-05 15:14:47] 🎬 Processing: Chapter 2G - Identification of different parts.mp4
+[2025-02-05 15:14:47] ✅ Duration: 0 hours 2 minutes and 30 seconds
+[2025-02-05 15:14:47] 🎬 Processing: Chapter 2I - Understanding the parts and functioning.mp4
+[2025-02-05 15:14:48] ✅ Duration: 0 hours 1 minutes and 31 seconds
+[2025-02-05 15:14:48] 🎬 Processing: Chapter 2J - Microscope for chip.mp4
+[2025-02-05 15:14:48] ✅ Duration: 0 hours 0 minutes and 52 seconds
+[2025-02-05 15:14:48] 🎬 Processing: Chapter 2K - Analogue and digital meter.mp4
+[2025-02-05 15:14:49] ✅ Duration: 0 hours 1 minutes and 18 seconds
+[2025-02-05 15:14:49] 🎬 Processing: Chapter 2L - Charging spot.mp4
+[2025-02-05 15:14:50] ✅ Duration: 0 hours 2 minutes and 43 seconds
+[2025-02-05 15:14:50] 🎬 Processing: Chapter 2M - Mobile cooling.mp4
+[2025-02-05 15:14:50] ✅ Duration: 0 hours 4 minutes and 9 seconds
+[2025-02-05 15:14:50] 🎬 Processing: Chapter 2N - Flashing tools.mp4
+[2025-02-05 15:14:51] ✅ Duration: 0 hours 2 minutes and 52 seconds
+[2025-02-05 15:14:51] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 2 - Final out': 0 hours 42 minutes and 41 seconds [UID: c7eab3d5fe]
+[2025-02-05 15:14:51] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 3 Final outs [UID: f1a01a504a]
+[2025-02-05 15:14:51] 🎬 Processing: Chapter 3A - Fault finding.mp4
+[2025-02-05 15:14:51] ✅ Duration: 0 hours 1 minutes and 29 seconds
+[2025-02-05 15:14:51] 🎬 Processing: Chapter 3B - Network.mp4
+[2025-02-05 15:14:51] ✅ Duration: 0 hours 1 minutes and 23 seconds
+[2025-02-05 15:14:51] 🎬 Processing: Chapter 3C - Chip level soldering.mp4
+[2025-02-05 15:14:52] ✅ Duration: 0 hours 0 minutes and 55 seconds
+[2025-02-05 15:14:52] 🎬 Processing: Chapter 3D - Identification of IC's.mp4
+[2025-02-05 15:14:53] ✅ Duration: 0 hours 1 minutes and 52 seconds
+[2025-02-05 15:14:53] 🎬 Processing: Chapter 3E - Thermal Camera.mp4
+[2025-02-05 15:14:53] ✅ Duration: 0 hours 1 minutes and 6 seconds
+[2025-02-05 15:14:53] 🎬 Processing: Chapter 3F - Rosin Smoker Flux.mp4
+[2025-02-05 15:14:54] ✅ Duration: 0 hours 0 minutes and 55 seconds
+[2025-02-05 15:14:54] 🎬 Processing: Chapter 3G - UV Gum.mp4
+[2025-02-05 15:14:54] ✅ Duration: 0 hours 0 minutes and 43 seconds
+[2025-02-05 15:14:54] 🎬 Processing: Chapter 3H - Solder paste.mp4
+[2025-02-05 15:14:55] ✅ Duration: 0 hours 0 minutes and 46 seconds
+[2025-02-05 15:14:55] 🎬 Processing: Chapter 3I - Use of 5 Amph.mp4
+[2025-02-05 15:14:55] ✅ Duration: 0 hours 1 minutes and 0 seconds
+[2025-02-05 15:14:55] 🎬 Processing: Chapter 3J - 5G troubleshooting.mp4
+[2025-02-05 15:14:56] ✅ Duration: 0 hours 8 minutes and 24 seconds
+[2025-02-05 15:14:56] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 3 Final outs': 0 hours 18 minutes and 37 seconds [UID: f1a01a504a]
+[2025-02-05 15:14:56] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 4 - Final [UID: 42d179b122]
+[2025-02-05 15:14:56] 🎬 Processing: Chapter 4A - Keypad LED's.mp4
+[2025-02-05 15:14:56] ✅ Duration: 0 hours 1 minutes and 27 seconds
+[2025-02-05 15:14:56] 🎬 Processing: Chapter 4B - Tracing.mp4
+[2025-02-05 15:14:57] ✅ Duration: 0 hours 1 minutes and 5 seconds
+[2025-02-05 15:14:57] 🎬 Processing: Chapter 4C - Checking of components.mp4
+[2025-02-05 15:14:57] ✅ Duration: 0 hours 1 minutes and 8 seconds
+[2025-02-05 15:14:57] 🎬 Processing: Chapter 4D - Prominence of filters.mp4
+[2025-02-05 15:14:58] ✅ Duration: 0 hours 1 minutes and 57 seconds
+[2025-02-05 15:14:58] 🎬 Processing: Chapter 4E - Information of different types of microchips and micro processors.mp4
+[2025-02-05 15:14:58] ✅ Duration: 0 hours 7 minutes and 10 seconds
+[2025-02-05 15:14:58] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 4 - Final': 0 hours 12 minutes and 49 seconds [UID: 42d179b122]
+[2025-02-05 15:14:58] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 5 - Finals [UID: c737769607]
+[2025-02-05 15:14:58] 🎬 Processing: Chapter 5A - Functioning and identification of the micro chips.mp4
+[2025-02-05 15:14:59] ✅ Duration: 0 hours 5 minutes and 43 seconds
+[2025-02-05 15:14:59] 🎬 Processing: Chapter 5B - Types of microprocessors and its functoning.mp4
+[2025-02-05 15:14:59] ✅ Duration: 0 hours 5 minutes and 0 seconds
+[2025-02-05 15:14:59] 🎬 Processing: Chapter 5C - Different variants of microprocessor and its significance.mp4
+[2025-02-05 15:15:00] ✅ Duration: 0 hours 11 minutes and 34 seconds
+[2025-02-05 15:15:00] 🎬 Processing: Chapter 5D - Schematic daigram.mp4
+[2025-02-05 15:15:00] ✅ Duration: 0 hours 10 minutes and 7 seconds
+[2025-02-05 15:15:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 5 - Finals': 0 hours 32 minutes and 25 seconds [UID: c737769607]
+[2025-02-05 15:15:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 6 - Finals [UID: e1faeb8a1a]
+[2025-02-05 15:15:00] 🎬 Processing: Chapter 6A - Types of problems.mp4
+[2025-02-05 15:15:01] ✅ Duration: 0 hours 3 minutes and 1 seconds
+[2025-02-05 15:15:01] 🎬 Processing: Chapter 6B - Charging, Camera, Display problems.mp4
+[2025-02-05 15:15:01] ✅ Duration: 0 hours 3 minutes and 35 seconds
+[2025-02-05 15:15:01] 🎬 Processing: Chapter 6C - Battery, Hanging and Network problems.mp4
+[2025-02-05 15:15:02] ✅ Duration: 0 hours 4 minutes and 15 seconds
+[2025-02-05 15:15:02] 🎬 Processing: Chapter 6D - LED and LCD.mp4
+[2025-02-05 15:15:02] ✅ Duration: 0 hours 7 minutes and 17 seconds
+[2025-02-05 15:15:02] 🎬 Processing: Chapter 6E - Combo display and OCA.mp4
+[2025-02-05 15:15:03] ✅ Duration: 0 hours 2 minutes and 17 seconds
+[2025-02-05 15:15:03] 🎬 Processing: Chapter 6F - Solutions for different problems.mp4
+[2025-02-05 15:15:03] ✅ Duration: 0 hours 5 minutes and 46 seconds
+[2025-02-05 15:15:03] 🎬 Processing: Chapter 6G - Trouble shooting.mp4
+[2025-02-05 15:15:04] ✅ Duration: 0 hours 2 minutes and 20 seconds
+[2025-02-05 15:15:04] 🎬 Processing: Chapter 6H - Replacement of connectors.mp4
+[2025-02-05 15:15:04] ✅ Duration: 0 hours 2 minutes and 39 seconds
+[2025-02-05 15:15:04] 🎬 Processing: Chapter 6I - Android EMMC.mp4
+[2025-02-05 15:15:05] ✅ Duration: 0 hours 2 minutes and 10 seconds
+[2025-02-05 15:15:05] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 6 - Finals': 0 hours 33 minutes and 24 seconds [UID: e1faeb8a1a]
+[2025-02-05 15:15:05] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 7 - Final [UID: c91ca86f6c]
+[2025-02-05 15:15:05] 🎬 Processing: Chapter 7A - Components of audio section.mp4
+[2025-02-05 15:15:05] ✅ Duration: 0 hours 1 minutes and 15 seconds
+[2025-02-05 15:15:05] 🎬 Processing: Chapter 7B - Nomenclature.mp4
+[2025-02-05 15:15:06] ✅ Duration: 0 hours 0 minutes and 38 seconds
+[2025-02-05 15:15:06] 🎬 Processing: Chapter 7C - Study of microphone.mp4
+[2025-02-05 15:15:06] ✅ Duration: 0 hours 1 minutes and 9 seconds
+[2025-02-05 15:15:06] 🎬 Processing: Chapter 7D - Speaker and Vibrator.mp4
+[2025-02-05 15:15:07] ✅ Duration: 0 hours 2 minutes and 26 seconds
+[2025-02-05 15:15:07] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 7 - Final': 0 hours 5 minutes and 30 seconds [UID: c91ca86f6c]
+[2025-02-05 15:15:07] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 8 -Final [UID: 1abb3a4e32]
+[2025-02-05 15:15:07] 🎬 Processing: Chapter 8A - Installation of drivers.mp4
+[2025-02-05 15:15:07] ✅ Duration: 0 hours 3 minutes and 3 seconds
+[2025-02-05 15:15:07] 🎬 Processing: Chapter 8B - Setting of file section.mp4
+[2025-02-05 15:15:08] ✅ Duration: 0 hours 0 minutes and 55 seconds
+[2025-02-05 15:15:08] 🎬 Processing: Chapter 8C - Flashing of cell phones.mp4
+[2025-02-05 15:15:08] ✅ Duration: 0 hours 0 minutes and 52 seconds
+[2025-02-05 15:15:08] 🎬 Processing: Chapter 8D - Restarting dead cellphone.mp4
+[2025-02-05 15:15:09] ✅ Duration: 0 hours 1 minutes and 25 seconds
+[2025-02-05 15:15:09] 🎬 Processing: Chapter 8E - Understanding working principle of cellphone.mp4
+[2025-02-05 15:15:09] ✅ Duration: 0 hours 3 minutes and 24 seconds
+[2025-02-05 15:15:09] 🎬 Processing: Chapter 8F - Trouble shooting methods.mp4
+[2025-02-05 15:15:10] ✅ Duration: 0 hours 11 minutes and 12 seconds
+[2025-02-05 15:15:10] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 8 -Final': 0 hours 20 minutes and 53 seconds [UID: 1abb3a4e32]
+[2025-02-05 15:15:10] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 9 - Final outs [UID: 8b94a3a586]
+[2025-02-05 15:15:10] 🎬 Processing: Chapter 9A - OCA Machine.mp4
+[2025-02-05 15:15:11] ✅ Duration: 0 hours 6 minutes and 58 seconds
+[2025-02-05 15:15:11] 🎬 Processing: Chapter 9B - Solderin and rework station.mp4
+[2025-02-05 15:15:11] ✅ Duration: 0 hours 17 minutes and 45 seconds
+[2025-02-05 15:15:11] 🎬 Processing: Chapter 9C - Tracking, Signal across motherboars, androiad, Troubl.mp4
+[2025-02-05 15:15:12] ✅ Duration: 0 hours 13 minutes and 26 seconds
+[2025-02-05 15:15:12] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 9 - Final outs': 0 hours 38 minutes and 10 seconds [UID: 8b94a3a586]
+[2025-02-05 15:15:12] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P [UID: 9b537abc91]
+[2025-02-05 15:15:12] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P': 0 hours 0 minutes and 0 seconds [UID: 9b537abc91]
+[2025-02-05 15:15:12] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 1 - Introduction to Floriculture [UID: 1871aedcc0]
+[2025-02-05 15:15:12] 🎬 Processing: Chapter 1A - Floriculture Present and Scope and Export Potential.mp4
+[2025-02-05 15:15:12] ✅ Duration: 0 hours 2 minutes and 48 seconds
+[2025-02-05 15:15:12] 🎬 Processing: Chapter 1B - Major Crops, Geographical Distribution and Description.mp4
+[2025-02-05 15:15:13] ✅ Duration: 0 hours 1 minutes and 53 seconds
+[2025-02-05 15:15:13] 🎬 Processing: Chapter 1C - General Cultivation Practices of Major Flower Crops.mp4
+[2025-02-05 15:15:13] ✅ Duration: 0 hours 2 minutes and 53 seconds
+[2025-02-05 15:15:13] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 1 - Introduction to Floriculture': 0 hours 7 minutes and 35 seconds [UID: 1871aedcc0]
+[2025-02-05 15:15:13] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 2 - Cultivation of foliage and ornamental plants [UID: 088b90b972]
+[2025-02-05 15:15:13] 🎬 Processing: Chapter 2A - Green House and Poly House Types and Management.mp4
+[2025-02-05 15:15:14] ✅ Duration: 0 hours 22 minutes and 16 seconds
+[2025-02-05 15:15:14] 🎬 Processing: Chapter 2B - Cultivation of Major Foliage and Ornamental Plants.mp4
+[2025-02-05 15:15:15] ✅ Duration: 0 hours 13 minutes and 6 seconds
+[2025-02-05 15:15:15] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 2 - Cultivation of foliage and ornamental plants': 0 hours 35 minutes and 23 seconds [UID: 088b90b972]
+[2025-02-05 15:15:15] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 3 - Cultivation of various flower, foliage, ornamental plants under protected, open conditions [UID: bcb5b38611]
+[2025-02-05 15:15:15] 🎬 Processing: Chapter 3A - Cultivation of Anthurium, Orchid, Gerbera, Carnation Under Protected Conditions.mp4
+[2025-02-05 15:15:15] ✅ Duration: 0 hours 30 minutes and 25 seconds
+[2025-02-05 15:15:15] 🎬 Processing: Chapter 3B - Cultivation of Rose, Jasmine, Chrysanthemum, Astra, Marigold, Crossandra in Open Condition.mp4
+[2025-02-05 15:15:16] ✅ Duration: 0 hours 9 minutes and 12 seconds
+[2025-02-05 15:15:16] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 3 - Cultivation of various flower, foliage, ornamental plants under protected, open conditions': 0 hours 39 minutes and 38 seconds [UID: bcb5b38611]
+[2025-02-05 15:15:16] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 4 - Management of floriculture plants [UID: 594afed5ea]
+[2025-02-05 15:15:16] 🎬 Processing: Chapter 4A - Harvest, Handling and Storage Techniques for Maintaining Flower Quality.mp4
+[2025-02-05 15:15:16] ✅ Duration: 0 hours 2 minutes and 43 seconds
+[2025-02-05 15:15:16] 🎬 Processing: Chapter 4B - Value Addition of Cut Flowers and Loose Flowers.mp4
+[2025-02-05 15:15:17] ✅ Duration: 0 hours 1 minutes and 53 seconds
+[2025-02-05 15:15:17] 🎬 Processing: Chapter 4C - Basic Principles of Flower Arrangement, Design and Flower Decoration.mp4
+[2025-02-05 15:15:17] ✅ Duration: 0 hours 6 minutes and 45 seconds
+[2025-02-05 15:15:17] 🎬 Processing: Chapter 4D - Packaging of Live Flowers for Export Within the Country and Overseas.mp4
+[2025-02-05 15:15:18] ✅ Duration: 0 hours 3 minutes and 32 seconds
+[2025-02-05 15:15:18] 🎬 Processing: Chapter 4D - Pest and Disease Managements.mp4
+[2025-02-05 15:15:18] ✅ Duration: 0 hours 7 minutes and 57 seconds
+[2025-02-05 15:15:18] 🎬 Processing: Chapter 4E - Water Conservation, Organic Alternatives and Responsible Water Management.mp4
+[2025-02-05 15:15:19] ✅ Duration: 0 hours 1 minutes and 44 seconds
+[2025-02-05 15:15:19] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 4 - Management of floriculture plants': 0 hours 24 minutes and 38 seconds [UID: 594afed5ea]
+[2025-02-05 15:15:19] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 5 - Handling, storage and Value addition of cut flowers and loose flowers [UID: 59c3b43652]
+[2025-02-05 15:15:19] 🎬 Processing: Chapter 5A - Nutrition, Fertilization and Irrigation Management in Flower Plants.mp4
+[2025-02-05 15:15:20] ✅ Duration: 0 hours 1 minutes and 54 seconds
+[2025-02-05 15:15:20] 🎬 Processing: Chapter 5B - Use of Growing and Rooting Media in Floriculture.mp4
+[2025-02-05 15:15:20] ✅ Duration: 0 hours 7 minutes and 39 seconds
+[2025-02-05 15:15:20] 🎬 Processing: Chapter 5C - Use of Hormones and Growth Regulators in Floriculture.mp4
+[2025-02-05 15:15:21] ✅ Duration: 0 hours 3 minutes and 42 seconds
+[2025-02-05 15:15:21] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 5 - Handling, storage and Value addition of cut flowers and loose flowers': 0 hours 13 minutes and 17 seconds [UID: 59c3b43652]
+[2025-02-05 15:15:21] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\3. Computer Hardware and Networking TA-M-9H-7P [UID: ff5868f81f]
+[2025-02-05 15:15:21] 🎬 Processing: Chapter 10A - Introduction to operating system.mp4
+[2025-02-05 15:15:21] ✅ Duration: 0 hours 19 minutes and 6 seconds
+[2025-02-05 15:15:21] 🎬 Processing: Chapter 11A - Computer management.mp4
+[2025-02-05 15:15:22] ✅ Duration: 0 hours 23 minutes and 17 seconds
+[2025-02-05 15:15:22] 🎬 Processing: Chapter 12A - Partitioning.mp4
+[2025-02-05 15:15:22] ✅ Duration: 0 hours 1 minutes and 46 seconds
+[2025-02-05 15:15:22] 🎬 Processing: Chapter 13A - Installation of drivers and software.mp4
+[2025-02-05 15:15:23] ✅ Duration: 0 hours 16 minutes and 29 seconds
+[2025-02-05 15:15:23] 🎬 Processing: Chapter 14A - CPU.mp4
+[2025-02-05 15:15:23] ✅ Duration: 0 hours 17 minutes and 2 seconds
+[2025-02-05 15:15:23] 🎬 Processing: Chapter 14B - CPU.mp4
+[2025-02-05 15:15:24] ✅ Duration: 0 hours 3 minutes and 23 seconds
+[2025-02-05 15:15:24] 🎬 Processing: Chapter 15A - Mother Board.mp4
+[2025-02-05 15:15:24] ✅ Duration: 0 hours 15 minutes and 33 seconds
+[2025-02-05 15:15:24] 🎬 Processing: Chapter 16A - RAM and ROM.mp4
+[2025-02-05 15:15:25] ✅ Duration: 0 hours 16 minutes and 28 seconds
+[2025-02-05 15:15:25] 🎬 Processing: Chapter 17A - Hard Disk Drive.mp4
+[2025-02-05 15:15:25] ✅ Duration: 0 hours 8 minutes and 36 seconds
+[2025-02-05 15:15:25] 🎬 Processing: Chapter 17B - Hard disk Drive.mp4
+[2025-02-05 15:15:26] ✅ Duration: 0 hours 20 minutes and 19 seconds
+[2025-02-05 15:15:26] 🎬 Processing: Chapter 18A - Optical Drive.mp4
+[2025-02-05 15:15:26] ✅ Duration: 0 hours 11 minutes and 6 seconds
+[2025-02-05 15:15:26] 🎬 Processing: Chapter 19A - Keyboard.mp4
+[2025-02-05 15:15:27] ✅ Duration: 0 hours 10 minutes and 54 seconds
+[2025-02-05 15:15:27] 🎬 Processing: Chapter 1A - Basic Electronics.mp4
+[2025-02-05 15:15:27] ✅ Duration: 0 hours 15 minutes and 59 seconds
+[2025-02-05 15:15:27] 🎬 Processing: Chapter 20A - Mouse.mp4
+[2025-02-05 15:15:28] ✅ Duration: 0 hours 20 minutes and 33 seconds
+[2025-02-05 15:15:28] 🎬 Processing: Chapter 21A - Monitor.mp4
+[2025-02-05 15:15:29] ✅ Duration: 0 hours 10 minutes and 25 seconds
+[2025-02-05 15:15:29] 🎬 Processing: Chapter 22A - Printer.mp4
+[2025-02-05 15:15:29] ✅ Duration: 0 hours 9 minutes and 50 seconds
+[2025-02-05 15:15:29] 🎬 Processing: Chapter 23A - Scanner.mp4
+[2025-02-05 15:15:30] ✅ Duration: 0 hours 8 minutes and 45 seconds
+[2025-02-05 15:15:30] 🎬 Processing: Chapter 24A - Virus and Malware.mp4
+[2025-02-05 15:15:30] ✅ Duration: 0 hours 16 minutes and 8 seconds
+[2025-02-05 15:15:30] 🎬 Processing: Chapter 25A - Trouble shooting.mp4
+[2025-02-05 15:15:31] ✅ Duration: 0 hours 20 minutes and 37 seconds
+[2025-02-05 15:15:31] 🎬 Processing: Chapter 25B - Trouble Shooting.mp4
+[2025-02-05 15:15:31] ✅ Duration: 0 hours 13 minutes and 34 seconds
+[2025-02-05 15:15:31] 🎬 Processing: Chapter 26A - Software installation and booting.mp4
+[2025-02-05 15:15:32] ✅ Duration: 0 hours 8 minutes and 19 seconds
+[2025-02-05 15:15:32] 🎬 Processing: Chapter 27A - Linux Operating System.mp4
+[2025-02-05 15:15:32] ✅ Duration: 0 hours 10 minutes and 3 seconds
+[2025-02-05 15:15:32] 🎬 Processing: Chapter 27B - Linux Operating System.mp4
+[2025-02-05 15:15:33] ✅ Duration: 0 hours 20 minutes and 20 seconds
+[2025-02-05 15:15:33] 🎬 Processing: Chapter 28A - Networking.mp4
+[2025-02-05 15:15:33] ✅ Duration: 0 hours 15 minutes and 56 seconds
+[2025-02-05 15:15:33] 🎬 Processing: Chapter 28B - Networking.mp4
+[2025-02-05 15:15:34] ✅ Duration: 0 hours 2 minutes and 45 seconds
+[2025-02-05 15:15:34] 🎬 Processing: Chapter 29A - Virtualization.mp4
+[2025-02-05 15:15:34] ✅ Duration: 0 hours 13 minutes and 18 seconds
+[2025-02-05 15:15:34] 🎬 Processing: Chapter 2A - Introduction to computer and understanding of the basics.mp4
+[2025-02-05 15:15:35] ✅ Duration: 0 hours 17 minutes and 17 seconds
+[2025-02-05 15:15:35] 🎬 Processing: Chapter 2B - Introduction to computer and understanding of the basics.mp4
+[2025-02-05 15:15:35] ✅ Duration: 0 hours 21 minutes and 7 seconds
+[2025-02-05 15:15:35] 🎬 Processing: Chapter 30A - Internet.mp4
+[2025-02-05 15:15:36] ✅ Duration: 0 hours 4 minutes and 31 seconds
+[2025-02-05 15:15:36] 🎬 Processing: Chapter 30B - Internet.mp4
+[2025-02-05 15:15:37] ✅ Duration: 0 hours 18 minutes and 41 seconds
+[2025-02-05 15:15:37] 🎬 Processing: Chapter 31A - Internet network.mp4
+[2025-02-05 15:15:37] ✅ Duration: 0 hours 5 minutes and 29 seconds
+[2025-02-05 15:15:37] 🎬 Processing: Chapter 32A - Laptop servicing.mp4
+[2025-02-05 15:15:38] ✅ Duration: 0 hours 8 minutes and 4 seconds
+[2025-02-05 15:15:38] 🎬 Processing: Chapter 32B - Laptop servicing.mp4
+[2025-02-05 15:15:38] ✅ Duration: 0 hours 15 minutes and 3 seconds
+[2025-02-05 15:15:38] 🎬 Processing: Chapter 33A - CC Camera.mp4
+[2025-02-05 15:15:39] ✅ Duration: 0 hours 12 minutes and 31 seconds
+[2025-02-05 15:15:39] 🎬 Processing: Chapter 3A - Important components of the computer.mp4
+[2025-02-05 15:15:40] ✅ Duration: 0 hours 13 minutes and 32 seconds
+[2025-02-05 15:15:40] 🎬 Processing: Chapter 3B - Important components of the computer.mp4
+[2025-02-05 15:15:40] ✅ Duration: 0 hours 6 minutes and 55 seconds
+[2025-02-05 15:15:40] 🎬 Processing: Chapter 4A - Tools and Equipment.mp4
+[2025-02-05 15:15:41] ✅ Duration: 0 hours 2 minutes and 40 seconds
+[2025-02-05 15:15:41] 🎬 Processing: Chapter 5A - Funadamentals of Electricity.mp4
+[2025-02-05 15:15:42] ✅ Duration: 0 hours 9 minutes and 37 seconds
+[2025-02-05 15:15:42] 🎬 Processing: Chapter 6A - SMPS.mp4
+[2025-02-05 15:15:42] ✅ Duration: 0 hours 10 minutes and 48 seconds
+[2025-02-05 15:15:42] 🎬 Processing: Chapter 7A - UPS.mp4
+[2025-02-05 15:15:43] ✅ Duration: 0 hours 7 minutes and 48 seconds
+[2025-02-05 15:15:43] 🎬 Processing: Chapter 8A - Assembling and dissembling PC'sUPS.mp4
+[2025-02-05 15:15:44] ✅ Duration: 0 hours 14 minutes and 47 seconds
+[2025-02-05 15:15:44] 🎬 Processing: Chapter 8B - Assembling and dissembling PC'sUPS.mp4
+[2025-02-05 15:15:44] ✅ Duration: 0 hours 2 minutes and 42 seconds
+[2025-02-05 15:15:44] 🎬 Processing: Chapter 9A - Introduction to BIOS and CMSO.mp4
+[2025-02-05 15:15:45] ✅ Duration: 0 hours 12 minutes and 38 seconds
+[2025-02-05 15:15:45] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\3. Computer Hardware and Networking TA-M-9H-7P': 8 hours 55 minutes and 0 seconds [UID: ff5868f81f]
+[2025-02-05 15:15:45] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\4. Costume Jewellery HI-F-3H-1P [UID: 6cd7d5dbe1]
+[2025-02-05 15:15:45] 🎬 Processing: CHAPTER 1- INTRODUCTION.mp4
+[2025-02-05 15:15:46] ✅ Duration: 0 hours 4 minutes and 24 seconds
+[2025-02-05 15:15:46] 🎬 Processing: CHAPTER 2A- FABRIC JEWELERY TOOLS & EQUIPMENTS_1.mp4
+[2025-02-05 15:15:46] ✅ Duration: 0 hours 3 minutes and 17 seconds
+[2025-02-05 15:15:46] 🎬 Processing: CHAPTER 2B- FABRIC JEWELERY.mp4
+[2025-02-05 15:15:47] ✅ Duration: 0 hours 35 minutes and 28 seconds
+[2025-02-05 15:15:47] 🎬 Processing: CHAPTER 3A- TERRACOTTA JEWELLERY TOOLS & EQUIPMENTS.mp4
+[2025-02-05 15:15:48] ✅ Duration: 0 hours 1 minutes and 29 seconds
+[2025-02-05 15:15:48] 🎬 Processing: CHAPTER 3B- TERRACOTTA JEWELLERY MAKING.mp4
+[2025-02-05 15:15:48] ✅ Duration: 0 hours 26 minutes and 13 seconds
+[2025-02-05 15:15:48] 🎬 Processing: CHAPTER 4A- SILK JEWELLERY TOOLS & EQUIPMENTS.mp4
+[2025-02-05 15:15:49] ✅ Duration: 0 hours 2 minutes and 1 seconds
+[2025-02-05 15:15:49] 🎬 Processing: CHAPTER 4B- SILK JEWELLERY MAKING.mp4
+[2025-02-05 15:15:50] ✅ Duration: 0 hours 35 minutes and 18 seconds
+[2025-02-05 15:15:50] 🎬 Processing: CHAPTER 5A- JUTE JEWELLERY TOOLS & EQUIPMENTS.mp4
+[2025-02-05 15:15:50] ✅ Duration: 0 hours 1 minutes and 56 seconds
+[2025-02-05 15:15:50] 🎬 Processing: CHAPTER 5B- JUTE JEWELLERY.mp4
+[2025-02-05 15:15:51] ✅ Duration: 0 hours 28 minutes and 48 seconds
+[2025-02-05 15:15:51] 🎬 Processing: CHAPTER 6A- FUSION JEWELLERY TOOLS & EQUIPMENTS.mp4
+[2025-02-05 15:15:52] ✅ Duration: 0 hours 2 minutes and 43 seconds
+[2025-02-05 15:15:52] 🎬 Processing: CHAPTER 6B- FUSION JEWELLERY MAKING.mp4
+[2025-02-05 15:15:52] ✅ Duration: 0 hours 27 minutes and 49 seconds
+[2025-02-05 15:15:52] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\4. Costume Jewellery HI-F-3H-1P': 2 hours 49 minutes and 32 seconds [UID: 6cd7d5dbe1]
+[2025-02-05 15:15:52] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\5. Electric Motor Rewinding & Repair Services EN-F-2H-7P [UID: 6f6b9f102d]
+[2025-02-05 15:15:52] 🎬 Processing: Chapter 10A - Working of a Iron box.mp4
+[2025-02-05 15:15:53] ✅ Duration: 0 hours 11 minutes and 38 seconds
+[2025-02-05 15:15:53] 🎬 Processing: Chapter 10B - Working of a Mixer.mp4
+[2025-02-05 15:15:54] ✅ Duration: 0 hours 3 minutes and 4 seconds
+[2025-02-05 15:15:54] 🎬 Processing: Chapter 1A - Introduction to Electricity.mp4
+[2025-02-05 15:15:55] ✅ Duration: 0 hours 35 minutes and 20 seconds
+[2025-02-05 15:15:55] 🎬 Processing: Chapter 2A - Tools and Equipment's.mp4
+[2025-02-05 15:15:55] ✅ Duration: 0 hours 1 minutes and 38 seconds
+[2025-02-05 15:15:55] 🎬 Processing: Chapter 3A - Symbols, Diagrams and Rules.mp4
+[2025-02-05 15:15:56] ✅ Duration: 0 hours 6 minutes and 56 seconds
+[2025-02-05 15:15:56] 🎬 Processing: Chapter 4A - Simple Electrical Circuits.mp4
+[2025-02-05 15:15:57] ✅ Duration: 0 hours 11 minutes and 7 seconds
+[2025-02-05 15:15:57] 🎬 Processing: Chapter 5A - Earthing.mp4
+[2025-02-05 15:15:57] ✅ Duration: 0 hours 3 minutes and 49 seconds
+[2025-02-05 15:15:57] 🎬 Processing: Chapter 6A - Wiring and its Concepts.mp4
+[2025-02-05 15:15:58] ✅ Duration: 0 hours 11 minutes and 33 seconds
+[2025-02-05 15:15:58] 🎬 Processing: Chapter 7A - Introduction to Rewinding.mp4
+[2025-02-05 15:15:59] ✅ Duration: 0 hours 2 minutes and 38 seconds
+[2025-02-05 15:15:59] 🎬 Processing: Chapter 8A -  Electric Motor Rewinding.mp4
+[2025-02-05 15:15:59] ✅ Duration: 0 hours 12 minutes and 2 seconds
+[2025-02-05 15:15:59] 🎬 Processing: Chapter 9A - Rewinding procedure of Transformer.mp4
+[2025-02-05 15:16:00] ✅ Duration: 0 hours 7 minutes and 53 seconds
+[2025-02-05 15:16:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\5. Electric Motor Rewinding & Repair Services EN-F-2H-7P': 1 hours 47 minutes and 44 seconds [UID: 6f6b9f102d]
+[2025-02-05 15:16:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE) [UID: 39c2360122]
+[2025-02-05 15:16:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)': 0 hours 0 minutes and 0 seconds [UID: 39c2360122]
+[2025-02-05 15:16:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall HI-F-2H-7P [UID: b522fca302]
+[2025-02-05 15:16:00] 🎬 Processing: Chapter 1A - Food Stall  Introduction.mp4
+[2025-02-05 15:16:01] ✅ Duration: 0 hours 2 minutes and 1 seconds
+[2025-02-05 15:16:01] 🎬 Processing: Chapter 1B- Pakoda.mp4
+[2025-02-05 15:16:01] ✅ Duration: 0 hours 1 minutes and 52 seconds
+[2025-02-05 15:16:01] 🎬 Processing: Chapter 1C - Samosa.mp4
+[2025-02-05 15:16:02] ✅ Duration: 0 hours 5 minutes and 46 seconds
+[2025-02-05 15:16:02] 🎬 Processing: Chapter 1D - Bhel Puri.mp4
+[2025-02-05 15:16:03] ✅ Duration: 0 hours 3 minutes and 50 seconds
+[2025-02-05 15:16:03] 🎬 Processing: Chapter 1E - Dahi Puri.mp4
+[2025-02-05 15:16:03] ✅ Duration: 0 hours 1 minutes and 41 seconds
+[2025-02-05 15:16:03] 🎬 Processing: Chapter 1F - Sev Puri.mp4
+[2025-02-05 15:16:04] ✅ Duration: 0 hours 4 minutes and 37 seconds
+[2025-02-05 15:16:04] 🎬 Processing: Chapter 2A - Fried Items.mp4
+[2025-02-05 15:16:04] ✅ Duration: 0 hours 9 minutes and 36 seconds
+[2025-02-05 15:16:04] 🎬 Processing: Chapter 2B - Chilli Gobi.mp4
+[2025-02-05 15:16:05] ✅ Duration: 0 hours 11 minutes and 2 seconds
+[2025-02-05 15:16:05] 🎬 Processing: Chapter 2C - Badam Milk & Rose Milk.mp4
+[2025-02-05 15:16:05] ✅ Duration: 0 hours 3 minutes and 4 seconds
+[2025-02-05 15:16:05] 🎬 Processing: Chapter 2D - Kulfi.mp4
+[2025-02-05 15:16:06] ✅ Duration: 0 hours 3 minutes and 47 seconds
+[2025-02-05 15:16:06] 🎬 Processing: Chapter 2E - Onion Pakoda.mp4
+[2025-02-05 15:16:06] ✅ Duration: 0 hours 7 minutes and 3 seconds
+[2025-02-05 15:16:06] 🎬 Processing: Chapter 2G - Disposal Of Oil.mp4
+[2025-02-05 15:16:07] ✅ Duration: 0 hours 1 minutes and 35 seconds
+[2025-02-05 15:16:07] 🎬 Processing: Chapter 3A - Introduction To Common Items In Fast Food Stall.mp4
+[2025-02-05 15:16:07] ✅ Duration: 0 hours 1 minutes and 54 seconds
+[2025-02-05 15:16:07] 🎬 Processing: Chapter 3B - Veg Pulao.mp4
+[2025-02-05 15:16:08] ✅ Duration: 0 hours 15 minutes and 18 seconds
+[2025-02-05 15:16:08] 🎬 Processing: Chapter 3C - Curd Rice.mp4
+[2025-02-05 15:16:09] ✅ Duration: 0 hours 3 minutes and 41 seconds
+[2025-02-05 15:16:09] 🎬 Processing: Chapter 3E - Chutney.mp4
+[2025-02-05 15:16:09] ✅ Duration: 0 hours 1 minutes and 55 seconds
+[2025-02-05 15:16:09] 🎬 Processing: Chapter 4A - Introduction To Junk Food.mp4
+[2025-02-05 15:16:09] ✅ Duration: 0 hours 1 minutes and 18 seconds
+[2025-02-05 15:16:09] 🎬 Processing: Chapter 4C - Sandwich.mp4
+[2025-02-05 15:16:10] ✅ Duration: 0 hours 2 minutes and 53 seconds
+[2025-02-05 15:16:10] 🎬 Processing: Chapter 4D - Cutlet.mp4
+[2025-02-05 15:16:11] ✅ Duration: 0 hours 14 minutes and 5 seconds
+[2025-02-05 15:16:11] 🎬 Processing: Chapter 4E - Pav Bhaji.mp4
+[2025-02-05 15:16:12] ✅ Duration: 0 hours 5 minutes and 45 seconds
+[2025-02-05 15:16:12] 🎬 Processing: Chapter 4F - Chole Bhature.mp4
+[2025-02-05 15:16:12] ✅ Duration: 0 hours 6 minutes and 32 seconds
+[2025-02-05 15:16:12] 🎬 Processing: Chapter 4G - Vada Pav.mp4
+[2025-02-05 15:16:12] ✅ Duration: 0 hours 3 minutes and 36 seconds
+[2025-02-05 15:16:12] 🎬 Processing: Chapter 4H - Kachori.mp4
+[2025-02-05 15:16:13] ✅ Duration: 0 hours 9 minutes and 46 seconds
+[2025-02-05 15:16:13] 🎬 Processing: Chapter 4I - French Fry.mp4
+[2025-02-05 15:16:13] ✅ Duration: 0 hours 2 minutes and 2 seconds
+[2025-02-05 15:16:13] 🎬 Processing: Chapter 4J - Toast.mp4
+[2025-02-05 15:16:14] ✅ Duration: 0 hours 9 minutes and 56 seconds
+[2025-02-05 15:16:14] 🎬 Processing: Chapter 5A - Introduction To Chinese Items.mp4
+[2025-02-05 15:16:14] ✅ Duration: 0 hours 3 minutes and 39 seconds
+[2025-02-05 15:16:14] 🎬 Processing: Chapter 5C - Veg Manchurian.mp4
+[2025-02-05 15:16:15] ✅ Duration: 0 hours 3 minutes and 18 seconds
+[2025-02-05 15:16:15] 🎬 Processing: Chapter 5D - Veg Noddles.mp4
+[2025-02-05 15:16:16] ✅ Duration: 0 hours 9 minutes and 52 seconds
+[2025-02-05 15:16:16] 🎬 Processing: Chapter 5E - Veg Chow Min.mp4
+[2025-02-05 15:16:16] ✅ Duration: 0 hours 2 minutes and 34 seconds
+[2025-02-05 15:16:16] 🎬 Processing: Chapter 5F - Veg Biriyani.mp4
+[2025-02-05 15:16:17] ✅ Duration: 0 hours 8 minutes and 0 seconds
+[2025-02-05 15:16:17] 🎬 Processing: Chapter 7A - Safety Measures.mp4
+[2025-02-05 15:16:17] ✅ Duration: 0 hours 5 minutes and 41 seconds
+[2025-02-05 15:16:17] 🎬 Processing: Chapter 8A - Role Of Fssai.mp4
+[2025-02-05 15:16:18] ✅ Duration: 0 hours 1 minutes and 14 seconds
+[2025-02-05 15:16:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall HI-F-2H-7P': 2 hours 49 minutes and 7 seconds [UID: b522fca302]
+[2025-02-05 15:16:18] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P [UID: b2f3f7679d]
+[2025-02-05 15:16:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P': 0 hours 0 minutes and 0 seconds [UID: b2f3f7679d]
+[2025-02-05 15:16:18] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 1 Introduction to Preparations of Masala Items [UID: 1910e82f82]
+[2025-02-05 15:16:18] 🎬 Processing: CHAPTER_1_A_Paani Poori.mp4
+[2025-02-05 15:16:19] ✅ Duration: 0 hours 42 minutes and 17 seconds
+[2025-02-05 15:16:19] 🎬 Processing: CHAPTER_1_B_Masala Poori.mp4
+[2025-02-05 15:16:19] ✅ Duration: 0 hours 8 minutes and 18 seconds
+[2025-02-05 15:16:19] 🎬 Processing: CHAPTER_1_C_Chat Masala.mp4
+[2025-02-05 15:16:20] ✅ Duration: 0 hours 1 minutes and 17 seconds
+[2025-02-05 15:16:20] 🎬 Processing: CHAPTER_1_D_Garam Masala.mp4
+[2025-02-05 15:16:20] ✅ Duration: 0 hours 1 minutes and 8 seconds
+[2025-02-05 15:16:20] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 1 Introduction to Preparations of Masala Items': 0 hours 53 minutes and 1 seconds [UID: 1910e82f82]
+[2025-02-05 15:16:20] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 2 Introduction to Preparations of Different Types of Fried Items [UID: 44d89bb0e5]
+[2025-02-05 15:16:20] 🎬 Processing: CHAPTER_2_A_Gobi Manchurian.mp4
+[2025-02-05 15:16:21] ✅ Duration: 0 hours 13 minutes and 46 seconds
+[2025-02-05 15:16:21] 🎬 Processing: CHAPTER_2_B_Rose Milk.mp4
+[2025-02-05 15:16:22] ✅ Duration: 0 hours 1 minutes and 54 seconds
+[2025-02-05 15:16:22] 🎬 Processing: CHAPTER_2_C_Badam Milk.mp4
+[2025-02-05 15:16:22] ✅ Duration: 0 hours 8 minutes and 28 seconds
+[2025-02-05 15:16:22] 🎬 Processing: CHAPTER_2_D_Kulfi Ice.mp4
+[2025-02-05 15:16:23] ✅ Duration: 0 hours 2 minutes and 3 seconds
+[2025-02-05 15:16:23] 🎬 Processing: CHAPTER_2_E_Onion Pakkoda.mp4
+[2025-02-05 15:16:23] ✅ Duration: 0 hours 7 minutes and 32 seconds
+[2025-02-05 15:16:23] 🎬 Processing: CHAPTER_2_F_Bajji.mp4
+[2025-02-05 15:16:24] ✅ Duration: 0 hours 4 minutes and 57 seconds
+[2025-02-05 15:16:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 2 Introduction to Preparations of Different Types of Fried Items': 0 hours 38 minutes and 41 seconds [UID: 44d89bb0e5]
+[2025-02-05 15:16:24] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 3 Introduction to Preparations of Different Types of Common Items [UID: 6484156e1c]
+[2025-02-05 15:16:24] 🎬 Processing: CHAPTER_3_A_Veg Pulao.mp4
+[2025-02-05 15:16:25] ✅ Duration: 0 hours 6 minutes and 8 seconds
+[2025-02-05 15:16:25] 🎬 Processing: CHAPTER_3_B_Curd Rice.mp4
+[2025-02-05 15:16:25] ✅ Duration: 0 hours 9 minutes and 2 seconds
+[2025-02-05 15:16:25] 🎬 Processing: CHAPTER_3_C_Lemon Rice - Tomato Rice.mp4
+[2025-02-05 15:16:26] ✅ Duration: 0 hours 6 minutes and 16 seconds
+[2025-02-05 15:16:26] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 3 Introduction to Preparations of Different Types of Common Items': 0 hours 21 minutes and 27 seconds [UID: 6484156e1c]
+[2025-02-05 15:16:26] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 4 Introduction to Preparations of Snacks and Junk Items [UID: ea6d514fa5]
+[2025-02-05 15:16:26] 🎬 Processing: CHAPTER_4_A_Sweet Corn.mp4
+[2025-02-05 15:16:27] ✅ Duration: 0 hours 1 minutes and 9 seconds
+[2025-02-05 15:16:27] 🎬 Processing: CHAPTER_4_B_Chikkies.mp4
+[2025-02-05 15:16:28] ✅ Duration: 0 hours 2 minutes and 31 seconds
+[2025-02-05 15:16:28] 🎬 Processing: CHAPTER_4_C_Burger.mp4
+[2025-02-05 15:16:28] ✅ Duration: 0 hours 1 minutes and 57 seconds
+[2025-02-05 15:16:28] 🎬 Processing: CHAPTER_4_D_Sandwich.mp4
+[2025-02-05 15:16:29] ✅ Duration: 0 hours 5 minutes and 50 seconds
+[2025-02-05 15:16:29] 🎬 Processing: CHAPTER_4_E_Cutlet.mp4
+[2025-02-05 15:16:29] ✅ Duration: 0 hours 7 minutes and 43 seconds
+[2025-02-05 15:16:29] 🎬 Processing: CHAPTER_4_F_Samosa.mp4
+[2025-02-05 15:16:30] ✅ Duration: 0 hours 5 minutes and 4 seconds
+[2025-02-05 15:16:30] 🎬 Processing: CHAPTER_4_G_Pav Bhaji.mp4
+[2025-02-05 15:16:31] ✅ Duration: 0 hours 3 minutes and 7 seconds
+[2025-02-05 15:16:31] 🎬 Processing: CHAPTER_4_H_Kachori.mp4
+[2025-02-05 15:16:31] ✅ Duration: 0 hours 4 minutes and 4 seconds
+[2025-02-05 15:16:31] 🎬 Processing: CHAPTER_4_I_French Fries.mp4
+[2025-02-05 15:16:32] ✅ Duration: 0 hours 2 minutes and 33 seconds
+[2025-02-05 15:16:32] 🎬 Processing: CHAPTER_4_J_Sandwich.mp4
+[2025-02-05 15:16:33] ✅ Duration: 0 hours 2 minutes and 4 seconds
+[2025-02-05 15:16:33] 🎬 Processing: CHAPTER_4_K_Mayonnaise_Food Stall.mp4
+[2025-02-05 15:16:33] ✅ Duration: 0 hours 4 minutes and 0 seconds
+[2025-02-05 15:16:33] 🎬 Processing: CHAPTER_4_L_Masala Sundal_Food Stall.mp4
+[2025-02-05 15:16:34] ✅ Duration: 0 hours 8 minutes and 2 seconds
+[2025-02-05 15:16:34] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 4 Introduction to Preparations of Snacks and Junk Items': 0 hours 48 minutes and 9 seconds [UID: ea6d514fa5]
+[2025-02-05 15:16:34] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 5 Introduction to Preparations of Different Chinese Items [UID: 561c7e33d9]
+[2025-02-05 15:16:34] 🎬 Processing: CHAPTER_5_A_Chinese Preparations Methods .mp4
+[2025-02-05 15:16:35] ✅ Duration: 0 hours 2 minutes and 44 seconds
+[2025-02-05 15:16:35] 🎬 Processing: CHAPTER_5_B_Chilly Chicken.mp4
+[2025-02-05 15:16:35] ✅ Duration: 0 hours 8 minutes and 29 seconds
+[2025-02-05 15:16:35] 🎬 Processing: CHAPTER_5_C_Veg Rice.mp4
+[2025-02-05 15:16:36] ✅ Duration: 0 hours 7 minutes and 31 seconds
+[2025-02-05 15:16:36] 🎬 Processing: CHAPTER_5_D_ Boiled Rice And Noodles For Fried Items.mp4
+[2025-02-05 15:16:37] ✅ Duration: 0 hours 7 minutes and 33 seconds
+[2025-02-05 15:16:37] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 5 Introduction to Preparations of Different Chinese Items': 0 hours 26 minutes and 18 seconds [UID: 561c7e33d9]
+[2025-02-05 15:16:37] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 6 Introduction  to Exposure to No - Veg Dishes and Detailing [UID: 1146391b51]
+[2025-02-05 15:16:37] 🎬 Processing: CHAPTER_6_A_Egg Noodles.mp4
+[2025-02-05 15:16:37] ✅ Duration: 0 hours 4 minutes and 23 seconds
+[2025-02-05 15:16:37] 🎬 Processing: CHAPTER_6_B_Chicken Rice.mp4
+[2025-02-05 15:16:38] ✅ Duration: 0 hours 7 minutes and 49 seconds
+[2025-02-05 15:16:38] 🎬 Processing: CHAPTER_6_C_Preservation of Meat and Other Items,Principle of Storages.mp4
+[2025-02-05 15:16:39] ✅ Duration: 0 hours 1 minutes and 52 seconds
+[2025-02-05 15:16:39] 🎬 Processing: CHAPTER_6_D_Awareness About the Cook Method and Expiry of Non- Veg Items.mp4
+[2025-02-05 15:16:39] ✅ Duration: 0 hours 1 minutes and 13 seconds
+[2025-02-05 15:16:39] 🎬 Processing: CHAPTER_6_E_Non Veg Advice_Food Stall.mp4
+[2025-02-05 15:16:40] ✅ Duration: 0 hours 2 minutes and 4 seconds
+[2025-02-05 15:16:40] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 6 Introduction  to Exposure to No - Veg Dishes and Detailing': 0 hours 17 minutes and 22 seconds [UID: 1146391b51]
+[2025-02-05 15:16:40] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 7 Safety Measures Needed for Hygienic Preparation of Items [UID: 87a1963c50]
+[2025-02-05 15:16:40] 🎬 Processing: CHAPTER_7_A_Theory of Personal Hygience and Use of Apron, Hand Gloves and Head Gear.mp4
+[2025-02-05 15:16:40] ✅ Duration: 0 hours 1 minutes and 46 seconds
+[2025-02-05 15:16:40] 🎬 Processing: CHAPTER_7_B_Use of Preservatives and Sealing, Selling of Food Products.mp4
+[2025-02-05 15:16:41] ✅ Duration: 0 hours 1 minutes and 0 seconds
+[2025-02-05 15:16:41] 🎬 Processing: CHAPTER_7_C_Food Advice_Food Stall.mp4
+[2025-02-05 15:16:41] ✅ Duration: 0 hours 1 minutes and 40 seconds
+[2025-02-05 15:16:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 7 Safety Measures Needed for Hygienic Preparation of Items': 0 hours 4 minutes and 27 seconds [UID: 87a1963c50]
+[2025-02-05 15:16:41] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 8 FSSAI - Its Role and Registration  Licensing Formalities and Information On E-Marketing [UID: 4fcce18c3e]
+[2025-02-05 15:16:41] 🎬 Processing: CHAPTER_8_A_Different Types of Packed Foods.mp4
+[2025-02-05 15:16:42] ✅ Duration: 0 hours 1 minutes and 38 seconds
+[2025-02-05 15:16:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 8 FSSAI - Its Role and Registration  Licensing Formalities and Information On E-Marketing': 0 hours 1 minutes and 38 seconds [UID: 4fcce18c3e]
+[2025-02-05 15:16:42] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE) [UID: cd4843736c]
+[2025-02-05 15:16:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)': 0 hours 0 minutes and 0 seconds [UID: cd4843736c]
+[2025-02-05 15:16:42] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P [UID: 6a57076900]
+[2025-02-05 15:16:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P': 0 hours 0 minutes and 0 seconds [UID: 6a57076900]
+[2025-02-05 15:16:42] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\MASALA LOW [UID: 9df8716a03]
+[2025-02-05 15:16:42] 🎬 Processing: CHAPTER 4A- MASALA POWDER INTRODUCTION.mp4
+[2025-02-05 15:16:43] ✅ Duration: 0 hours 2 minutes and 46 seconds
+[2025-02-05 15:16:43] 🎬 Processing: CHAPTER 4B- GARAM MASALA MAKING.mp4
+[2025-02-05 15:16:43] ✅ Duration: 0 hours 7 minutes and 8 seconds
+[2025-02-05 15:16:43] 🎬 Processing: CHAPTER 4C- CHAAT MASALA MAKING.mp4
+[2025-02-05 15:16:44] ✅ Duration: 0 hours 5 minutes and 48 seconds
+[2025-02-05 15:16:44] 🎬 Processing: CHAPTER 4D- PAV BHAJI MASALA MAKING.mp4
+[2025-02-05 15:16:44] ✅ Duration: 0 hours 5 minutes and 57 seconds
+[2025-02-05 15:16:44] 🎬 Processing: GRINDING THE RAW MATERIALS.mp4
+[2025-02-05 15:16:45] ✅ Duration: 0 hours 0 minutes and 33 seconds
+[2025-02-05 15:16:45] 🎬 Processing: IMPORTANCE OF PACKING.mp4
+[2025-02-05 15:16:45] ✅ Duration: 0 hours 1 minutes and 40 seconds
+[2025-02-05 15:16:45] 🎬 Processing: PANIPURI MASALA MAKING.mp4
+[2025-02-05 15:16:46] ✅ Duration: 0 hours 1 minutes and 25 seconds
+[2025-02-05 15:16:46] 🎬 Processing: SELECTION OF RAW MATERIALS AND THEIR MEDICINAL VALUE.mp4
+[2025-02-05 15:16:46] ✅ Duration: 0 hours 0 minutes and 44 seconds
+[2025-02-05 15:16:46] 🎬 Processing: TIMELINE TO ROAST THE SPICES.mp4
+[2025-02-05 15:16:47] ✅ Duration: 0 hours 1 minutes and 1 seconds
+[2025-02-05 15:16:47] 🎬 Processing: TYPES OF MASALA.mp4
+[2025-02-05 15:16:47] ✅ Duration: 0 hours 2 minutes and 0 seconds
+[2025-02-05 15:16:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\MASALA LOW': 0 hours 29 minutes and 7 seconds [UID: 9df8716a03]
+[2025-02-05 15:16:47] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\PAPAD LOW [UID: 0abe14c3ef]
+[2025-02-05 15:16:47] 🎬 Processing: CHAPTER 2A- PAPAD INTRODUCTION.mp4
+[2025-02-05 15:16:48] ✅ Duration: 0 hours 1 minutes and 39 seconds
+[2025-02-05 15:16:48] 🎬 Processing: CHAPTER 2B- TYPES OF PAPAD.mp4
+[2025-02-05 15:16:49] ✅ Duration: 0 hours 1 minutes and 49 seconds
+[2025-02-05 15:16:49] 🎬 Processing: CHAPTER 2C- SELECTION OF INGRADIENTS.mp4
+[2025-02-05 15:16:49] ✅ Duration: 0 hours 4 minutes and 22 seconds
+[2025-02-05 15:16:49] 🎬 Processing: CHAPTER 2D- INGRADIENTS MIXING PROCESS.mp4
+[2025-02-05 15:16:50] ✅ Duration: 0 hours 2 minutes and 50 seconds
+[2025-02-05 15:16:50] 🎬 Processing: CHAPTER 2E- FLOUR MAKING PROCESS.mp4
+[2025-02-05 15:16:50] ✅ Duration: 0 hours 6 minutes and 18 seconds
+[2025-02-05 15:16:50] 🎬 Processing: CHAPTER 2F- FINAL OUT PUT OF PAPAD.mp4
+[2025-02-05 15:16:51] ✅ Duration: 0 hours 4 minutes and 50 seconds
+[2025-02-05 15:16:51] 🎬 Processing: CHAPTER 2G- RICE PAPAD MAKING.mp4
+[2025-02-05 15:16:51] ✅ Duration: 0 hours 13 minutes and 19 seconds
+[2025-02-05 15:16:51] 🎬 Processing: CHAPTER 2H- UDAT PAPAD MAKING.mp4
+[2025-02-05 15:16:52] ✅ Duration: 0 hours 8 minutes and 8 seconds
+[2025-02-05 15:16:52] 🎬 Processing: CHAPTER 2I- PRESERVATION.mp4
+[2025-02-05 15:16:52] ✅ Duration: 0 hours 0 minutes and 59 seconds
+[2025-02-05 15:16:52] 🎬 Processing: CHAPTER 2J- ROLE OF PACKING.mp4
+[2025-02-05 15:16:53] ✅ Duration: 0 hours 2 minutes and 15 seconds
+[2025-02-05 15:16:53] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\PAPAD LOW': 0 hours 46 minutes and 32 seconds [UID: 0abe14c3ef]
+[2025-02-05 15:16:53] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\PICKLE LOW [UID: ee5833da2d]
+[2025-02-05 15:16:53] 🎬 Processing: AMLA.mp4
+[2025-02-05 15:16:53] ✅ Duration: 0 hours 0 minutes and 59 seconds
+[2025-02-05 15:16:53] 🎬 Processing: CHAPTER 3A- PICKLE INTRODUCTION.mp4
+[2025-02-05 15:16:54] ✅ Duration: 0 hours 0 minutes and 44 seconds
+[2025-02-05 15:16:54] 🎬 Processing: CHAPTER 3B- MIX VEG & CHILLI PICKLE MAKING.mp4
+[2025-02-05 15:16:55] ✅ Duration: 0 hours 16 minutes and 58 seconds
+[2025-02-05 15:16:55] 🎬 Processing: CHAPTER 3C- LEMON PICKLE MAKING.mp4
+[2025-02-05 15:16:55] ✅ Duration: 0 hours 11 minutes and 13 seconds
+[2025-02-05 15:16:55] 🎬 Processing: CUTTING & MIXING OF INDRADIENTS.mp4
+[2025-02-05 15:16:56] ✅ Duration: 0 hours 3 minutes and 59 seconds
+[2025-02-05 15:16:56] 🎬 Processing: IMPORTANCE OF PACKING OF ACHAAR.mp4
+[2025-02-05 15:16:56] ✅ Duration: 0 hours 4 minutes and 25 seconds
+[2025-02-05 15:16:56] 🎬 Processing: MEDICINAL VALUE OF PICKLE.mp4
+[2025-02-05 15:16:57] ✅ Duration: 0 hours 1 minutes and 5 seconds
+[2025-02-05 15:16:57] 🎬 Processing: PRESERVATION OF ACHAAR.mp4
+[2025-02-05 15:16:57] ✅ Duration: 0 hours 1 minutes and 53 seconds
+[2025-02-05 15:16:57] 🎬 Processing: PROBLEMS OF ARTIFICIAL PRESERVATIONS & IMPORTANCE OF PRESERVATION.mp4
+[2025-02-05 15:16:58] ✅ Duration: 0 hours 0 minutes and 57 seconds
+[2025-02-05 15:16:58] 🎬 Processing: PROMOTE INNOVATION IN IDENTIFYING NEW VARIETIES.mp4
+[2025-02-05 15:16:58] ✅ Duration: 0 hours 2 minutes and 29 seconds
+[2025-02-05 15:16:58] 🎬 Processing: SELECTION OF RAW MATERIALS.mp4
+[2025-02-05 15:16:59] ✅ Duration: 0 hours 3 minutes and 21 seconds
+[2025-02-05 15:16:59] 🎬 Processing: TYPES OF ACHAAR.mp4
+[2025-02-05 15:17:00] ✅ Duration: 0 hours 3 minutes and 0 seconds
+[2025-02-05 15:17:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\PICKLE LOW': 0 hours 51 minutes and 10 seconds [UID: ee5833da2d]
+[2025-02-05 15:17:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P [UID: 248afae959]
+[2025-02-05 15:17:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P': 0 hours 0 minutes and 0 seconds [UID: 248afae959]
+[2025-02-05 15:17:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-1 Papad [UID: 2ca7b480ef]
+[2025-02-05 15:17:00] 🎬 Processing: 1. Papad Introduction.mp4
+[2025-02-05 15:17:00] ✅ Duration: 0 hours 4 minutes and 17 seconds
+[2025-02-05 15:17:00] 🎬 Processing: 2. Different Types Of Papad.mp4
+[2025-02-05 15:17:01] ✅ Duration: 0 hours 1 minutes and 31 seconds
+[2025-02-05 15:17:01] 🎬 Processing: 3. Selection And Quality Of Ingredients.mp4
+[2025-02-05 15:17:01] ✅ Duration: 0 hours 6 minutes and 15 seconds
+[2025-02-05 15:17:01] 🎬 Processing: 4. Mixing Process.mp4
+[2025-02-05 15:17:02] ✅ Duration: 0 hours 5 minutes and 2 seconds
+[2025-02-05 15:17:02] 🎬 Processing: 5. How To Prepare Papad In Correct Shape.mp4
+[2025-02-05 15:17:02] ✅ Duration: 0 hours 1 minutes and 57 seconds
+[2025-02-05 15:17:02] 🎬 Processing: 6. Final Output Of Papad.mp4
+[2025-02-05 15:17:03] ✅ Duration: 0 hours 1 minutes and 46 seconds
+[2025-02-05 15:17:03] 🎬 Processing: 7. Importance Of Packing.mp4
+[2025-02-05 15:17:03] ✅ Duration: 0 hours 7 minutes and 33 seconds
+[2025-02-05 15:17:03] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-1 Papad': 0 hours 28 minutes and 24 seconds [UID: 2ca7b480ef]
+[2025-02-05 15:17:03] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-2 Pickle [UID: 4b920d70e5]
+[2025-02-05 15:17:03] 🎬 Processing: 2A- Pickle Introduction.mp4
+[2025-02-05 15:17:04] ✅ Duration: 0 hours 4 minutes and 39 seconds
+[2025-02-05 15:17:04] 🎬 Processing: 2B- Medicinal Values Of Pickle.mp4
+[2025-02-05 15:17:04] ✅ Duration: 0 hours 7 minutes and 3 seconds
+[2025-02-05 15:17:04] 🎬 Processing: 2C- Pickle Innovation In Identifying New Varieties.mp4
+[2025-02-05 15:17:05] ✅ Duration: 0 hours 2 minutes and 26 seconds
+[2025-02-05 15:17:05] 🎬 Processing: 2D- Pickle Preservation Methods.mp4
+[2025-02-05 15:17:06] ✅ Duration: 0 hours 11 minutes and 38 seconds
+[2025-02-05 15:17:06] 🎬 Processing: 2E- Pickle Raw Materials.mp4
+[2025-02-05 15:17:06] ✅ Duration: 0 hours 5 minutes and 58 seconds
+[2025-02-05 15:17:06] 🎬 Processing: 2F- Pickle Ingredients.mp4
+[2025-02-05 15:17:07] ✅ Duration: 0 hours 7 minutes and 16 seconds
+[2025-02-05 15:17:07] 🎬 Processing: 2G- Importance Of Packing.mp4
+[2025-02-05 15:17:07] ✅ Duration: 0 hours 12 minutes and 13 seconds
+[2025-02-05 15:17:07] 🎬 Processing: 2H- Mango Pickle Making.mp4
+[2025-02-05 15:17:08] ✅ Duration: 0 hours 11 minutes and 43 seconds
+[2025-02-05 15:17:08] 🎬 Processing: 2I- Nellikai Pickle Making.mp4
+[2025-02-05 15:17:09] ✅ Duration: 0 hours 9 minutes and 28 seconds
+[2025-02-05 15:17:09] 🎬 Processing: 2J- Pickle Final Output.mp4
+[2025-02-05 15:17:09] ✅ Duration: 0 hours 2 minutes and 5 seconds
+[2025-02-05 15:17:09] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-2 Pickle': 1 hours 14 minutes and 34 seconds [UID: 4b920d70e5]
+[2025-02-05 15:17:09] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-3 Masala Powder [UID: f2f87b0bef]
+[2025-02-05 15:17:09] 🎬 Processing: 3A- Introduction About Masala Powder.mp4
+[2025-02-05 15:17:10] ✅ Duration: 0 hours 13 minutes and 56 seconds
+[2025-02-05 15:17:10] 🎬 Processing: 3B- Masala Selection Of Raw Materials.mp4
+[2025-02-05 15:17:10] ✅ Duration: 0 hours 3 minutes and 2 seconds
+[2025-02-05 15:17:10] 🎬 Processing: 3C- Chutney Powder Making.mp4
+[2025-02-05 15:17:11] ✅ Duration: 0 hours 6 minutes and 32 seconds
+[2025-02-05 15:17:11] 🎬 Processing: 3D- Chutney Grinding.mp4
+[2025-02-05 15:17:11] ✅ Duration: 0 hours 2 minutes and 51 seconds
+[2025-02-05 15:17:11] 🎬 Processing: 3E- Sambar Masala Making.mp4
+[2025-02-05 15:17:12] ✅ Duration: 0 hours 9 minutes and 5 seconds
+[2025-02-05 15:17:12] 🎬 Processing: 3F- Sambar Grinding.mp4
+[2025-02-05 15:17:13] ✅ Duration: 0 hours 4 minutes and 17 seconds
+[2025-02-05 15:17:13] 🎬 Processing: 3G- Masala Preservation.mp4
+[2025-02-05 15:17:13] ✅ Duration: 0 hours 0 minutes and 42 seconds
+[2025-02-05 15:17:13] 🎬 Processing: 3H- Importance Of Packing.mp4
+[2025-02-05 15:17:14] ✅ Duration: 0 hours 4 minutes and 20 seconds
+[2025-02-05 15:17:14] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-3 Masala Powder': 0 hours 44 minutes and 49 seconds [UID: f2f87b0bef]
+[2025-02-05 15:17:14] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P [UID: d4bd02b89b]
+[2025-02-05 15:17:14] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P': 0 hours 0 minutes and 0 seconds [UID: d4bd02b89b]
+[2025-02-05 15:17:14] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\1_Introduction to Screen Printing [UID: 3f0caeb875]
+[2025-02-05 15:17:14] 🎬 Processing: Chapter 1A - Get to Know the Present Scenario and Scope of Screen Printing.mp4
+[2025-02-05 15:17:14] ✅ Duration: 0 hours 11 minutes and 46 seconds
+[2025-02-05 15:17:14] 🎬 Processing: Chapter 1B - Concept of Screen Printing.mp4
+[2025-02-05 15:17:15] ✅ Duration: 0 hours 6 minutes and 16 seconds
+[2025-02-05 15:17:15] 🎬 Processing: Chapter 1C - Learn the Types of Applications.mp4
+[2025-02-05 15:17:16] ✅ Duration: 0 hours 1 minutes and 18 seconds
+[2025-02-05 15:17:16] 🎬 Processing: Chapter 1D - Understand the Characteristics of Screen Printing.mp4
+[2025-02-05 15:17:16] ✅ Duration: 0 hours 0 minutes and 46 seconds
+[2025-02-05 15:17:16] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\1_Introduction to Screen Printing': 0 hours 20 minutes and 8 seconds [UID: 3f0caeb875]
+[2025-02-05 15:17:16] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\2_Screen Preparation, Frame & Fabric [UID: 5a265a5322]
+[2025-02-05 15:17:16] 🎬 Processing: Chapter 2A - Know the Types of Filaments.mp4
+[2025-02-05 15:17:17] ✅ Duration: 0 hours 1 minutes and 16 seconds
+[2025-02-05 15:17:17] 🎬 Processing: Chapter 2B - Learn Fabric Types and Other Screen Materials.mp4
+[2025-02-05 15:17:17] ✅ Duration: 0 hours 1 minutes and 54 seconds
+[2025-02-05 15:17:17] 🎬 Processing: Chapter 2C - Screen Preparation Techniques.mp4
+[2025-02-05 15:17:18] ✅ Duration: 0 hours 3 minutes and 41 seconds
+[2025-02-05 15:17:18] 🎬 Processing: Chapter 2D - Technique of Four Colour Printing.mp4
+[2025-02-05 15:17:18] ✅ Duration: 0 hours 1 minutes and 51 seconds
+[2025-02-05 15:17:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\2_Screen Preparation, Frame & Fabric': 0 hours 8 minutes and 43 seconds [UID: 5a265a5322]
+[2025-02-05 15:17:18] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\3_Photo Framing - Basic & Techniques [UID: f51b56bcaa]
+[2025-02-05 15:17:18] 🎬 Processing: Chapter 3A - Different Types of Photo Frames.mp4
+[2025-02-05 15:17:19] ✅ Duration: 0 hours 2 minutes and 16 seconds
+[2025-02-05 15:17:19] 🎬 Processing: Chapter 3B - Techniques of Framing.mp4
+[2025-02-05 15:17:20] ✅ Duration: 0 hours 1 minutes and 45 seconds
+[2025-02-05 15:17:20] 🎬 Processing: Chapter 3C - Digital Framing and Applications.mp4
+[2025-02-05 15:17:20] ✅ Duration: 0 hours 4 minutes and 26 seconds
+[2025-02-05 15:17:20] 🎬 Processing: Chapter 3D - Use of AI in Photo Framing.mp4
+[2025-02-05 15:17:21] ✅ Duration: 0 hours 1 minutes and 16 seconds
+[2025-02-05 15:17:21] 🎬 Processing: Chapter 3E - Design, Measure, Cut and Prepare the Frame.mp4
+[2025-02-05 15:17:21] ✅ Duration: 0 hours 2 minutes and 12 seconds
+[2025-02-05 15:17:21] 🎬 Processing: Chapter 3F - Chose the Correct Type of Glass.mp4
+[2025-02-05 15:17:22] ✅ Duration: 0 hours 5 minutes and 0 seconds
+[2025-02-05 15:17:22] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\3_Photo Framing - Basic & Techniques': 0 hours 16 minutes and 58 seconds [UID: f51b56bcaa]
+[2025-02-05 15:17:22] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\4_Photo Lamination- Types, Techniques and Benefits [UID: 558ea8e818]
+[2025-02-05 15:17:22] 🎬 Processing: Chapter 4A - Introduction to Photo Lamination.mp4
+[2025-02-05 15:17:23] ✅ Duration: 0 hours 7 minutes and 23 seconds
+[2025-02-05 15:17:23] 🎬 Processing: Chapter 4B - Types of Lamination.mp4
+[2025-02-05 15:17:23] ✅ Duration: 0 hours 4 minutes and 53 seconds
+[2025-02-05 15:17:23] 🎬 Processing: Chapter 4C - Techniques of Lamination.mp4
+[2025-02-05 15:17:24] ✅ Duration: 0 hours 3 minutes and 6 seconds
+[2025-02-05 15:17:24] 🎬 Processing: Chapter 4D - Benefits of Lamination.mp4
+[2025-02-05 15:17:25] ✅ Duration: 0 hours 1 minutes and 13 seconds
+[2025-02-05 15:17:25] 🎬 Processing: Chapter 4E - Glose Lamination and Its Features.mp4
+[2025-02-05 15:17:25] ✅ Duration: 0 hours 1 minutes and 17 seconds
+[2025-02-05 15:17:25] 🎬 Processing: Chapter 4F - Know the Types of Lamination.mp4
+[2025-02-05 15:17:26] ✅ Duration: 0 hours 2 minutes and 19 seconds
+[2025-02-05 15:17:26] 🎬 Processing: Chapter 4G - Equipments & Tools Required for the Lamination.mp4
+[2025-02-05 15:17:27] ✅ Duration: 0 hours 1 minutes and 34 seconds
+[2025-02-05 15:17:27] 🎬 Processing: Chapter 4H - Learn to Choose the Correct Lamination.mp4
+[2025-02-05 15:17:27] ✅ Duration: 0 hours 2 minutes and 21 seconds
+[2025-02-05 15:17:27] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\4_Photo Lamination- Types, Techniques and Benefits': 0 hours 24 minutes and 11 seconds [UID: 558ea8e818]
+[2025-02-05 15:17:27] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\5_The Future of Screen Printing [UID: ffcc32033c]
+[2025-02-05 15:17:27] 🎬 Processing: Chapter 5A - The Future of Screen Printing-.mp4
+[2025-02-05 15:17:28] ✅ Duration: 0 hours 3 minutes and 11 seconds
+[2025-02-05 15:17:28] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\5_The Future of Screen Printing': 0 hours 3 minutes and 11 seconds [UID: ffcc32033c]
+[2025-02-05 15:17:28] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\6_The Changing Trends in Lamination, Framing and Printing [UID: 10ee10bac8]
+[2025-02-05 15:17:28] 🎬 Processing: Chapter 6A - Artificial Intelligence.mp4
+[2025-02-05 15:17:29] ✅ Duration: 0 hours 2 minutes and 50 seconds
+[2025-02-05 15:17:29] 🎬 Processing: Chapter 6B - Virtual Reality & Drone Photography.mp4
+[2025-02-05 15:17:29] ✅ Duration: 0 hours 3 minutes and 41 seconds
+[2025-02-05 15:17:29] 🎬 Processing: Chapter 6C - Mobile Photography & 3D Photography.mp4
+[2025-02-05 15:17:30] ✅ Duration: 0 hours 3 minutes and 43 seconds
+[2025-02-05 15:17:30] 🎬 Processing: Chapter 6D - Social Media Influence, Increased Accessibility.mp4
+[2025-02-05 15:17:30] ✅ Duration: 0 hours 2 minutes and 13 seconds
+[2025-02-05 15:17:30] 🎬 Processing: Chapter 6E - Quality Enhancement.mp4
+[2025-02-05 15:17:31] ✅ Duration: 0 hours 5 minutes and 47 seconds
+[2025-02-05 15:17:31] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\6_The Changing Trends in Lamination, Framing and Printing': 0 hours 18 minutes and 16 seconds [UID: 10ee10bac8]
+[2025-02-05 15:17:31] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\7_Sublimation Cloth & Mug Print [UID: 0aa8e5aa57]
+[2025-02-05 15:17:31] 🎬 Processing: Chapter 7A - Sublimation Cloth & Mug Print.mp4
+[2025-02-05 15:17:31] ✅ Duration: 0 hours 23 minutes and 7 seconds
+[2025-02-05 15:17:31] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\7_Sublimation Cloth & Mug Print': 0 hours 23 minutes and 7 seconds [UID: 0aa8e5aa57]
+[2025-02-05 15:17:31] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P [UID: 526be24490]
+[2025-02-05 15:17:31] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P': 0 hours 0 minutes and 0 seconds [UID: 526be24490]
+[2025-02-05 15:17:31] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 1 - Concepts of Electricity [UID: f1036b4df2]
+[2025-02-05 15:17:31] 🎬 Processing: Chapter 1A - Basic concept of electricity.mp4
+[2025-02-05 15:17:33] ✅ Duration: 0 hours 3 minutes and 32 seconds
+[2025-02-05 15:17:33] 🎬 Processing: Chapter 1B - Introduction to electronics.mp4
+[2025-02-05 15:17:34] ✅ Duration: 0 hours 1 minutes and 58 seconds
+[2025-02-05 15:17:34] 🎬 Processing: Chapter 1C - Identification of components of ac and its functions_1.mp4
+[2025-02-05 15:17:35] ✅ Duration: 0 hours 7 minutes and 45 seconds
+[2025-02-05 15:17:35] 🎬 Processing: Chapter 1D - Difference between AC and DC.mp4
+[2025-02-05 15:17:37] ✅ Duration: 0 hours 5 minutes and 11 seconds
+[2025-02-05 15:17:37] 🎬 Processing: Chapter 1E - Electrical and electronic parts in Refrigeration and AC.mp4
+[2025-02-05 15:17:39] ✅ Duration: 0 hours 3 minutes and 36 seconds
+[2025-02-05 15:17:39] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 1 - Concepts of Electricity': 0 hours 22 minutes and 5 seconds [UID: f1036b4df2]
+[2025-02-05 15:17:39] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 10 - Air Conditioning Services [UID: 3f20395a1e]
+[2025-02-05 15:17:39] 🎬 Processing: Chapter 10A - Installation of the Unit.mp4
+[2025-02-05 15:17:40] ✅ Duration: 0 hours 16 minutes and 18 seconds
+[2025-02-05 15:17:40] 🎬 Processing: Chapter 10B - Electrical Air Sensor, Air Flow and Temperatures, Types of Temperature Sensor - Room Sensor and Coil Sensor.mp4
+[2025-02-05 15:17:42] ✅ Duration: 0 hours 4 minutes and 9 seconds
+[2025-02-05 15:17:42] 🎬 Processing: Chapter 10C  - AUTOMOBILE AC.mp4
+[2025-02-05 15:17:43] ✅ Duration: 0 hours 0 minutes and 59 seconds
+[2025-02-05 15:17:43] 🎬 Processing: Chapter 10D - Types of Secondary Refrigeration and Uses- Water Cooling System.mp4
+[2025-02-05 15:17:44] ✅ Duration: 0 hours 1 minutes and 16 seconds
+[2025-02-05 15:17:44] 🎬 Processing: Chapter 10E - Dismantling of Window and Split AC.mp4
+[2025-02-05 15:17:45] ✅ Duration: 0 hours 11 minutes and 13 seconds
+[2025-02-05 15:17:45] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 10 - Air Conditioning Services': 0 hours 33 minutes and 58 seconds [UID: 3f20395a1e]
+[2025-02-05 15:17:45] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 2 - RAC Industry Scope and Overview [UID: c5514219bf]
+[2025-02-05 15:17:45] 🎬 Processing: Chapter 2A - RAC Industry and its Overview and Scope of RAC in Climatic Changing Condition.mp4
+[2025-02-05 15:17:46] ✅ Duration: 0 hours 2 minutes and 51 seconds
+[2025-02-05 15:17:46] 🎬 Processing: Chapter 2B - Latest Technology in RAC Industry.mp4
+[2025-02-05 15:17:48] ✅ Duration: 0 hours 2 minutes and 4 seconds
+[2025-02-05 15:17:48] 🎬 Processing: Chapter 2C- Role and Competence of  RAC Service Technician.mp4
+[2025-02-05 15:17:49] ✅ Duration: 0 hours 3 minutes and 6 seconds
+[2025-02-05 15:17:49] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 2 - RAC Industry Scope and Overview': 0 hours 8 minutes and 2 seconds [UID: c5514219bf]
+[2025-02-05 15:17:49] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 3 - Commonly Used Tools [UID: 25e4f2a4b7]
+[2025-02-05 15:17:49] 🎬 Processing: Chapter 3A- Identify Commonly Used Tools.mp4
+[2025-02-05 15:17:50] ✅ Duration: 0 hours 12 minutes and 39 seconds
+[2025-02-05 15:17:50] 🎬 Processing: Chapter 3B - Consumable Tools.mp4
+[2025-02-05 15:17:51] ✅ Duration: 0 hours 2 minutes and 37 seconds
+[2025-02-05 15:17:51] 🎬 Processing: Chapter 3C - Power Tools.mp4
+[2025-02-05 15:17:52] ✅ Duration: 0 hours 1 minutes and 29 seconds
+[2025-02-05 15:17:52] 🎬 Processing: Chapter 3D - Measuring Tools and Their Uses.mp4
+[2025-02-05 15:17:53] ✅ Duration: 0 hours 2 minutes and 27 seconds
+[2025-02-05 15:17:53] 🎬 Processing: Chapter 3E - Special Respiratory Protection, Use of Safety Measures and Equipment.mp4
+[2025-02-05 15:17:54] ✅ Duration: 0 hours 5 minutes and 34 seconds
+[2025-02-05 15:17:54] 🎬 Processing: Chapter 3F -  - Do's and Don'ts While Using Tools.mp4
+[2025-02-05 15:17:55] ✅ Duration: 0 hours 3 minutes and 32 seconds
+[2025-02-05 15:17:55] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 3 - Commonly Used Tools': 0 hours 28 minutes and 21 seconds [UID: 25e4f2a4b7]
+[2025-02-05 15:17:55] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 4 - Introduction To Refrigeration [UID: beda6c1d9e]
+[2025-02-05 15:17:55] 🎬 Processing: Chapter 4A - Understand The Concept of Refrigeration and Its Cycle.mp4
+[2025-02-05 15:17:56] ✅ Duration: 0 hours 3 minutes and 59 seconds
+[2025-02-05 15:17:56] 🎬 Processing: Chapter 4B - Basic Understanding of Thermodynamics.mp4
+[2025-02-05 15:17:57] ✅ Duration: 0 hours 2 minutes and 38 seconds
+[2025-02-05 15:17:57] 🎬 Processing: Chapter 4C - Types of AC (Domestic, Commercial and Centralized Refrigeration).mp4
+[2025-02-05 15:17:58] ✅ Duration: 0 hours 3 minutes and 56 seconds
+[2025-02-05 15:17:58] 🎬 Processing: Chapter 4D - Difference Between Refrigeration and Refrigerator.mp4
+[2025-02-05 15:18:00] ✅ Duration: 0 hours 1 minutes and 48 seconds
+[2025-02-05 15:18:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 4 - Introduction To Refrigeration': 0 hours 12 minutes and 23 seconds [UID: beda6c1d9e]
+[2025-02-05 15:18:00] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 5 - Capacitor and Compressor [UID: e577f26aca]
+[2025-02-05 15:18:00] 🎬 Processing: Chapter 5A - Capacitor and Compressor.mp4
+[2025-02-05 15:18:01] ✅ Duration: 0 hours 2 minutes and 4 seconds
+[2025-02-05 15:18:01] 🎬 Processing: Chapter 5B - Definition and Types of Compressor, Parts of Compressor and Function of a Compressor.mp4
+[2025-02-05 15:18:02] ✅ Duration: 0 hours 4 minutes and 44 seconds
+[2025-02-05 15:18:02] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 5 - Capacitor and Compressor': 0 hours 6 minutes and 49 seconds [UID: e577f26aca]
+[2025-02-05 15:18:02] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 6 - Copper Tubes In Refrigeration [UID: 6c9c56896c]
+[2025-02-05 15:18:02] 🎬 Processing: Chapter 6A - Why Copper Tubes and Its Uses.mp4
+[2025-02-05 15:18:03] ✅ Duration: 0 hours 3 minutes and 2 seconds
+[2025-02-05 15:18:03] 🎬 Processing: Chapter 6B - Different Size of Copper Tubes and Uses.mp4
+[2025-02-05 15:18:04] ✅ Duration: 0 hours 1 minutes and 13 seconds
+[2025-02-05 15:18:04] 🎬 Processing: Chapter 6C - Copper Tube Bending, Cutting, Swedging, Brazing and Flaring.mp4
+[2025-02-05 15:18:06] ✅ Duration: 0 hours 12 minutes and 27 seconds
+[2025-02-05 15:18:06] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 6 - Copper Tubes In Refrigeration': 0 hours 16 minutes and 42 seconds [UID: 6c9c56896c]
+[2025-02-05 15:18:06] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 7 - Refrigerant Working Process [UID: 3ae91f64c1]
+[2025-02-05 15:18:06] 🎬 Processing: Chapter 7A - Direct Cool and Frost Free Refrigeration.mp4
+[2025-02-05 15:18:07] ✅ Duration: 0 hours 1 minutes and 15 seconds
+[2025-02-05 15:18:07] 🎬 Processing: Chapter 7B - Fault Finding and Solution Machine Vacuum and Refrigerant Charging.mp4
+[2025-02-05 15:18:08] ✅ Duration: 0 hours 5 minutes and 17 seconds
+[2025-02-05 15:18:08] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 7 - Refrigerant Working Process': 0 hours 6 minutes and 32 seconds [UID: 3ae91f64c1]
+[2025-02-05 15:18:08] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 8 - Introduction to Air Conditioning [UID: ea25b8c08f]
+[2025-02-05 15:18:08] 🎬 Processing: Chapter 8A - Window AC and Split AC.mp4
+[2025-02-05 15:18:09] ✅ Duration: 0 hours 4 minutes and 15 seconds
+[2025-02-05 15:18:09] 🎬 Processing: Chapter 8B - Window AC Compressor Change Vacuum and Refrigerant Charging.mp4
+[2025-02-05 15:18:11] ✅ Duration: 0 hours 3 minutes and 47 seconds
+[2025-02-05 15:18:11] 🎬 Processing: Chapter 8C - The Difference Between Invertor and Non-Invertor and The Concept of Invertor Linear Technology.mp4
+[2025-02-05 15:18:12] ✅ Duration: 0 hours 1 minutes and 57 seconds
+[2025-02-05 15:18:12] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 8 - Introduction to Air Conditioning': 0 hours 10 minutes and 1 seconds [UID: ea25b8c08f]
+[2025-02-05 15:18:12] 
+🔍 Scanning directory: K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 9 - Fault Findings and Its Solution [UID: 741fbca64d]
+[2025-02-05 15:18:12] 🎬 Processing: Chapter 9A - Fault Finding and Solution- In Brazing Chokes, In Mechanical Parts and Fan and Indoor Unit.mp4
+[2025-02-05 15:18:13] ✅ Duration: 0 hours 2 minutes and 52 seconds
+[2025-02-05 15:18:13] 🎬 Processing: Chapter 9B - In Low Pressure Side and High Pressure Side.mp4
+[2025-02-05 15:18:14] ✅ Duration: 0 hours 5 minutes and 16 seconds
+[2025-02-05 15:18:14] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 9 - Fault Findings and Its Solution': 0 hours 8 minutes and 9 seconds [UID: 741fbca64d]
+[2025-02-05 15:18:14] 
+📊 Total video content in 'K:\\REAP 15 Course 2024\\720p': 80 hours 40 minutes and 56 seconds [UID: bb0140337c]
+[2025-02-05 15:18:14] ⏳ Total time taken: 0 hours 6 minutes and 13 seconds
+[2025-02-05 15:18:14] 
+Final Summary:
+[2025-02-05 15:18:14] 📁 Root: 80 hours 40 minutes and 56 seconds
+[2025-02-05 15:18:14] 📂 720p: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]   📂 0. REAP Program project Introduction Video: 0 hours 2 minutes and 15 seconds
+[2025-02-05 15:18:14]   📂 1. Candle Making HI-F-2H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Candle Making with Music: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]       📂 Chapter 1 - Introduction: 0 hours 24 minutes and 48 seconds
+[2025-02-05 15:18:14]       📂 Chapter 2 - Raw materials tools and equipment: 0 hours 53 minutes and 57 seconds
+[2025-02-05 15:18:14]       📂 Chapter 3 - Preparation and making of wax candle: 0 hours 42 minutes and 50 seconds
+[2025-02-05 15:18:14]       📂 Chapter 4 - Different Types of candles: 0 hours 7 minutes and 24 seconds
+[2025-02-05 15:18:14]       📂 Chapter 5 - Top candle trends and their making procedure: 0 hours 17 minutes and 53 seconds
+[2025-02-05 15:18:14]       📂 Chapter 6 - Final Presentation and Marketing: 0 hours 39 minutes and 41 seconds
+[2025-02-05 15:18:14]     📂 Candle making No music: 3 hours 6 minutes and 36 seconds
+[2025-02-05 15:18:14]   📂 10. UPS and Battery Making EN-M-6H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Chapter 1 - Basic Electric and Electronics Engineering - Basic Working concepts: 0 hours 21 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Chapter 2 - Parts of Inverter and UPS: 0 hours 27 minutes and 2 seconds
+[2025-02-05 15:18:14]     📂 Chapter 3 - PCB Components, Diagram and its working: 1 hours 14 minutes and 4 seconds
+[2025-02-05 15:18:14]     📂 Chapter 4 - Invertor Parts and Wiring: 0 hours 12 minutes and 44 seconds
+[2025-02-05 15:18:14]     📂 Chapter 5 - Assembling and installing UPS: 0 hours 11 minutes and 57 seconds
+[2025-02-05 15:18:14]     📂 Chapter 6 - Repairing dysfunctional UPS: 0 hours 50 minutes and 36 seconds
+[2025-02-05 15:18:14]     📂 Chapter 7 - Selection and Management of equipment and Tools: 0 hours 49 minutes and 49 seconds
+[2025-02-05 15:18:14]     📂 Chapter 8 - Making of Different types of batteries in 21st century: 0 hours 57 minutes and 18 seconds
+[2025-02-05 15:18:14]     📂 Chapter 9 - Battery Management System: 0 hours 42 minutes and 57 seconds
+[2025-02-05 15:18:14]   📂 11 .Vastra Chitra Kala TA-F-6H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Chapter-1 Fundamentals Of Hand Embroidery: 0 hours 10 minutes and 29 seconds
+[2025-02-05 15:18:14]     📂 Chapter-10 Tie And Dye: 0 hours 20 minutes and 41 seconds
+[2025-02-05 15:18:14]     📂 Chapter-11 Printing Techniques: 0 hours 20 minutes and 41 seconds
+[2025-02-05 15:18:14]     📂 Chapter-2 Raw Materials Tools And Equipment: 0 hours 50 minutes and 18 seconds
+[2025-02-05 15:18:14]     📂 Chapter-3 Basic Embroidery Stiches-Run, Loop, Knot Stitches: 1 hours 11 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Chapter-4 Design With Combination Of Stitches And Edge Finishing Techniques: 0 hours 17 minutes and 49 seconds
+[2025-02-05 15:18:14]     📂 Chapter-5 Decorative Stitches By Hand: 0 hours 18 minutes and 56 seconds
+[2025-02-05 15:18:14]     📂 Chapter-6 Application Of Traditional Embroidery: 0 hours 23 minutes and 35 seconds
+[2025-02-05 15:18:14]     📂 Chapter-7 Embellishment Works For Textile: 1 hours 11 minutes and 57 seconds
+[2025-02-05 15:18:14]     📂 Chapter-8 Fundamentals Of Painting Dyeing And Printing: 0 hours 12 minutes and 30 seconds
+[2025-02-05 15:18:14]     📂 Chapter-9 Different Painting Techniques: 0 hours 44 minutes and 8 seconds
+[2025-02-05 15:18:14]   📂 12. Womens Tailoring (LOOK INSIDE): 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Womens Tailoring HI-F-6H-7P: 6 hours 29 minutes and 48 seconds
+[2025-02-05 15:18:14]     📂 Womens talioring TA-F-7H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]       📂 Chapter 1 - Tailoring Parts Expirement: 0 hours 16 minutes and 5 seconds
+[2025-02-05 15:18:14]       📂 Chapter 10 chudidhar pant: 0 hours 56 minutes and 34 seconds
+[2025-02-05 15:18:14]       📂 Chapter 11 inskirt: 0 hours 26 minutes and 59 seconds
+[2025-02-05 15:18:14]       📂 Chapter 2 - Tailoring Variation: 0 hours 31 minutes and 39 seconds
+[2025-02-05 15:18:14]       📂 Chapter 3 types of fabrics and raw materials: 0 hours 9 minutes and 42 seconds
+[2025-02-05 15:18:14]       📂 Chapter 4 Types of stiches: 0 hours 31 minutes and 59 seconds
+[2025-02-05 15:18:14]       📂 Chapter 5 - Measurement basics: 0 hours 16 minutes and 56 seconds
+[2025-02-05 15:18:14]       📂 Chapter 6  Petty coat: 1 hours 11 minutes and 50 seconds
+[2025-02-05 15:18:14]       📂 Chapter 7 Nighty: 1 hours 13 minutes and 39 seconds
+[2025-02-05 15:18:14]       📂 Chapter 8 Blouse: 1 hours 11 minutes and 49 seconds
+[2025-02-05 15:18:14]       📂 Chapter 9 chudidhar: 1 hours 39 minutes and 19 seconds
+[2025-02-05 15:18:14]   📂 13. Bee Keeping HI-M-5H-7P: 5 hours 18 minutes and 47 seconds
+[2025-02-05 15:18:14]   📂 14. Computerized Accounting HI-M-6H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Computerized Accounting and Book keeping: 5 hours 40 minutes and 15 seconds
+[2025-02-05 15:18:14]   📂 15. Cellphone and Repair Service TA-M-6H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Chapter 1 - Final outs: 0 hours 34 minutes and 32 seconds
+[2025-02-05 15:18:14]     📂 Chapter 10 - Final: 0 hours 29 minutes and 38 seconds
+[2025-02-05 15:18:14]     📂 Chapter 11 - Final: 0 hours 16 minutes and 30 seconds
+[2025-02-05 15:18:14]     📂 Chapter 12 - Final out: 0 hours 13 minutes and 11 seconds
+[2025-02-05 15:18:14]     📂 Chapter 13 - Final: 0 hours 5 minutes and 24 seconds
+[2025-02-05 15:18:14]     📂 Chapter 14 - Final: 0 hours 41 minutes and 7 seconds
+[2025-02-05 15:18:14]     📂 Chapter 2 - Final out: 0 hours 42 minutes and 41 seconds
+[2025-02-05 15:18:14]     📂 Chapter 3 Final outs: 0 hours 18 minutes and 37 seconds
+[2025-02-05 15:18:14]     📂 Chapter 4 - Final: 0 hours 12 minutes and 49 seconds
+[2025-02-05 15:18:14]     📂 Chapter 5 - Finals: 0 hours 32 minutes and 25 seconds
+[2025-02-05 15:18:14]     📂 Chapter 6 - Finals: 0 hours 33 minutes and 24 seconds
+[2025-02-05 15:18:14]     📂 Chapter 7 - Final: 0 hours 5 minutes and 30 seconds
+[2025-02-05 15:18:14]     📂 Chapter 8 -Final: 0 hours 20 minutes and 53 seconds
+[2025-02-05 15:18:14]     📂 Chapter 9 - Final outs: 0 hours 38 minutes and 10 seconds
+[2025-02-05 15:18:14]   📂 2. Comercial Floriculture EN-M-2H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Chapter 1 - Introduction to Floriculture: 0 hours 7 minutes and 35 seconds
+[2025-02-05 15:18:14]     📂 Chapter 2 - Cultivation of foliage and ornamental plants: 0 hours 35 minutes and 23 seconds
+[2025-02-05 15:18:14]     📂 Chapter 3 - Cultivation of various flower, foliage, ornamental plants under protected, open conditions: 0 hours 39 minutes and 38 seconds
+[2025-02-05 15:18:14]     📂 Chapter 4 - Management of floriculture plants: 0 hours 24 minutes and 38 seconds
+[2025-02-05 15:18:14]     📂 Chapter 5 - Handling, storage and Value addition of cut flowers and loose flowers: 0 hours 13 minutes and 17 seconds
+[2025-02-05 15:18:14]   📂 3. Computer Hardware and Networking TA-M-9H-7P: 8 hours 55 minutes and 0 seconds
+[2025-02-05 15:18:14]   📂 4. Costume Jewellery HI-F-3H-1P: 2 hours 49 minutes and 32 seconds
+[2025-02-05 15:18:14]   📂 5. Electric Motor Rewinding & Repair Services EN-F-2H-7P: 1 hours 47 minutes and 44 seconds
+[2025-02-05 15:18:14]   📂 6. Fast Food Stall (LOOK INSIDE): 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Fast Food Stall HI-F-2H-7P: 2 hours 49 minutes and 7 seconds
+[2025-02-05 15:18:14]     📂 Fast Food Stall TA-F-2H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]       📂 CH 1 Introduction to Preparations of Masala Items: 0 hours 53 minutes and 1 seconds
+[2025-02-05 15:18:14]       📂 CH 2 Introduction to Preparations of Different Types of Fried Items: 0 hours 38 minutes and 41 seconds
+[2025-02-05 15:18:14]       📂 CH 3 Introduction to Preparations of Different Types of Common Items: 0 hours 21 minutes and 27 seconds
+[2025-02-05 15:18:14]       📂 CH 4 Introduction to Preparations of Snacks and Junk Items: 0 hours 48 minutes and 9 seconds
+[2025-02-05 15:18:14]       📂 CH 5 Introduction to Preparations of Different Chinese Items: 0 hours 26 minutes and 18 seconds
+[2025-02-05 15:18:14]       📂 CH 6 Introduction  to Exposure to No - Veg Dishes and Detailing: 0 hours 17 minutes and 22 seconds
+[2025-02-05 15:18:14]       📂 CH 7 Safety Measures Needed for Hygienic Preparation of Items: 0 hours 4 minutes and 27 seconds
+[2025-02-05 15:18:14]       📂 CH 8 FSSAI - Its Role and Registration  Licensing Formalities and Information On E-Marketing: 0 hours 1 minutes and 38 seconds
+[2025-02-05 15:18:14]   📂 7. Papad, Pickle, Masala Powder (LOOK INSIDE): 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Papad Pickel Masala Powder HI-F-2H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]       📂 MASALA LOW: 0 hours 29 minutes and 7 seconds
+[2025-02-05 15:18:14]       📂 PAPAD LOW: 0 hours 46 minutes and 32 seconds
+[2025-02-05 15:18:14]       📂 PICKLE LOW: 0 hours 51 minutes and 10 seconds
+[2025-02-05 15:18:14]     📂 Papad Pickle Masala Powder TA-M-2H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]       📂 Chapter-1 Papad: 0 hours 28 minutes and 24 seconds
+[2025-02-05 15:18:14]       📂 Chapter-2 Pickle: 1 hours 14 minutes and 34 seconds
+[2025-02-05 15:18:14]       📂 Chapter-3 Masala Powder: 0 hours 44 minutes and 49 seconds
+[2025-02-05 15:18:14]   📂 8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 1_Introduction to Screen Printing: 0 hours 20 minutes and 8 seconds
+[2025-02-05 15:18:14]     📂 2_Screen Preparation, Frame & Fabric: 0 hours 8 minutes and 43 seconds
+[2025-02-05 15:18:14]     📂 3_Photo Framing - Basic & Techniques: 0 hours 16 minutes and 58 seconds
+[2025-02-05 15:18:14]     📂 4_Photo Lamination- Types, Techniques and Benefits: 0 hours 24 minutes and 11 seconds
+[2025-02-05 15:18:14]     📂 5_The Future of Screen Printing: 0 hours 3 minutes and 11 seconds
+[2025-02-05 15:18:14]     📂 6_The Changing Trends in Lamination, Framing and Printing: 0 hours 18 minutes and 16 seconds
+[2025-02-05 15:18:14]     📂 7_Sublimation Cloth & Mug Print: 0 hours 23 minutes and 7 seconds
+[2025-02-05 15:18:14]   📂 9. Refrigirator and AC HI-M-2.5H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:18:14]     📂 Chapter 1 - Concepts of Electricity: 0 hours 22 minutes and 5 seconds
+[2025-02-05 15:18:14]     📂 Chapter 10 - Air Conditioning Services: 0 hours 33 minutes and 58 seconds
+[2025-02-05 15:18:14]     📂 Chapter 2 - RAC Industry Scope and Overview: 0 hours 8 minutes and 2 seconds
+[2025-02-05 15:18:14]     📂 Chapter 3 - Commonly Used Tools: 0 hours 28 minutes and 21 seconds
+[2025-02-05 15:18:14]     📂 Chapter 4 - Introduction To Refrigeration: 0 hours 12 minutes and 23 seconds
+[2025-02-05 15:18:14]     📂 Chapter 5 - Capacitor and Compressor: 0 hours 6 minutes and 49 seconds
+[2025-02-05 15:18:14]     📂 Chapter 6 - Copper Tubes In Refrigeration: 0 hours 16 minutes and 42 seconds
+[2025-02-05 15:18:14]     📂 Chapter 7 - Refrigerant Working Process: 0 hours 6 minutes and 32 seconds
+[2025-02-05 15:18:14]     📂 Chapter 8 - Introduction to Air Conditioning: 0 hours 10 minutes and 1 seconds
+[2025-02-05 15:18:14]     📂 Chapter 9 - Fault Findings and Its Solution: 0 hours 8 minutes and 9 seconds
+[2025-02-05 15:18:14] 🛑 Log ended at 15:18:14 on 2025-02-05
+

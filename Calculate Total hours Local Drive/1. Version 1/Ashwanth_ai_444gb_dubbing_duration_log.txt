@@ -1,0 +1,4 @@
+[2025-02-07 10:10:53] 🚀 Log started at 10:10:53 on 2025-02-07
+[2025-02-07 10:10:53] 
+📁 Entering folder: D:\IIT\ai dubbing [UID: 8624aacda7]
+[2025-02-07 10:10:58] 📦 Folder size: 443.14 GB and 453770.66 MB

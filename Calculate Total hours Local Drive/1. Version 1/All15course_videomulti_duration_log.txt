@@ -1,0 +1,206 @@
+[2025-02-05 15:20:58] 🚀 Log started at 15:20:58 on 2025-02-05
+[2025-02-05 15:20:58] 
+📁 Entering folder: K:\\REAP 15 Course 2024\\720p [UID: bb0140337c]
+[2025-02-05 15:20:58] 📦 Folder size: 117.28 GB and 120095.18 MB
+[2025-02-05 15:21:19] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\0. REAP Program project Introduction Video': 0 hours 2 minutes and 15 seconds [UID: 756bf3aefb]
+[2025-02-05 15:21:29] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle making No music': 3 hours 6 minutes and 36 seconds [UID: 757857eed9]
+[2025-02-05 15:21:29] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 1 - Introduction': 0 hours 24 minutes and 48 seconds [UID: 314a69d146]
+[2025-02-05 15:21:29] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 2 - Raw materials tools and equipment': 0 hours 53 minutes and 57 seconds [UID: 42320bcb6c]
+[2025-02-05 15:21:29] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 3 - Preparation and making of wax candle': 0 hours 42 minutes and 50 seconds [UID: 587fa6975c]
+[2025-02-05 15:21:29] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 4 - Different Types of candles': 0 hours 7 minutes and 24 seconds [UID: 5fa66e2897]
+[2025-02-05 15:21:30] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 5 - Top candle trends and their making procedure': 0 hours 17 minutes and 53 seconds [UID: dfc17be155]
+[2025-02-05 15:21:30] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\1. Candle Making HI-F-2H-7P\Candle Making with Music\Chapter 6 - Final Presentation and Marketing': 0 hours 39 minutes and 41 seconds [UID: 55ca821b64]
+[2025-02-05 15:21:31] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 1 - Basic Electric and Electronics Engineering - Basic Working concepts': 0 hours 21 minutes and 0 seconds [UID: 3183f4ddb8]
+[2025-02-05 15:21:31] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 2 - Parts of Inverter and UPS': 0 hours 27 minutes and 2 seconds [UID: 8925cfa9c5]
+[2025-02-05 15:21:31] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 3 - PCB Components, Diagram and its working': 1 hours 14 minutes and 4 seconds [UID: 1815f69354]
+[2025-02-05 15:21:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 4 - Invertor Parts and Wiring': 0 hours 12 minutes and 44 seconds [UID: d660face80]
+[2025-02-05 15:21:44] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 5 - Assembling and installing UPS': 0 hours 11 minutes and 57 seconds [UID: 66226bc9ee]
+[2025-02-05 15:21:46] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 6 - Repairing dysfunctional UPS': 0 hours 50 minutes and 36 seconds [UID: 87ec7458fd]
+[2025-02-05 15:21:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 7 - Selection and Management of equipment and Tools': 0 hours 49 minutes and 49 seconds [UID: bc94f4a25b]
+[2025-02-05 15:21:52] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 8 - Making of Different types of batteries in 21st century': 0 hours 57 minutes and 18 seconds [UID: c2502c7b4e]
+[2025-02-05 15:21:52] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\10. UPS and Battery Making EN-M-6H-7P\Chapter 9 - Battery Management System': 0 hours 42 minutes and 57 seconds [UID: b3104df8bb]
+[2025-02-05 15:21:54] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-1 Fundamentals Of Hand Embroidery': 0 hours 10 minutes and 29 seconds [UID: 00f9008828]
+[2025-02-05 15:21:54] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-10 Tie And Dye': 0 hours 20 minutes and 41 seconds [UID: c7669cd772]
+[2025-02-05 15:21:54] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-11 Printing Techniques': 0 hours 20 minutes and 41 seconds [UID: 8b1b8de771]
+[2025-02-05 15:21:54] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-2 Raw Materials Tools And Equipment': 0 hours 50 minutes and 18 seconds [UID: d8ff9003ce]
+[2025-02-05 15:21:54] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-3 Basic Embroidery Stiches-Run, Loop, Knot Stitches': 1 hours 11 minutes and 0 seconds [UID: d8ee485b0a]
+[2025-02-05 15:22:00] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-4 Design With Combination Of Stitches And Edge Finishing Techniques': 0 hours 17 minutes and 49 seconds [UID: 1bb98baf9a]
+[2025-02-05 15:22:11] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-5 Decorative Stitches By Hand': 0 hours 18 minutes and 56 seconds [UID: 1e848ee712]
+[2025-02-05 15:22:14] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-6 Application Of Traditional Embroidery': 0 hours 23 minutes and 35 seconds [UID: 2404234d8a]
+[2025-02-05 15:22:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-7 Embellishment Works For Textile': 1 hours 11 minutes and 57 seconds [UID: 12e664bbea]
+[2025-02-05 15:22:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-8 Fundamentals Of Painting Dyeing And Printing': 0 hours 12 minutes and 30 seconds [UID: b9f4079430]
+[2025-02-05 15:22:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\11 .Vastra Chitra Kala TA-F-6H-7P\Chapter-9 Different Painting Techniques': 0 hours 44 minutes and 8 seconds [UID: a3af25d572]
+[2025-02-05 15:22:26] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens Tailoring HI-F-6H-7P': 6 hours 29 minutes and 48 seconds [UID: 2ae194b58e]
+[2025-02-05 15:22:26] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 1 - Tailoring Parts Expirement': 0 hours 16 minutes and 5 seconds [UID: f4dc3be4ed]
+[2025-02-05 15:22:28] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 10 chudidhar pant': 0 hours 56 minutes and 34 seconds [UID: e4a5a3f729]
+[2025-02-05 15:22:28] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 11 inskirt': 0 hours 26 minutes and 59 seconds [UID: eeb4bffbd6]
+[2025-02-05 15:22:28] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 2 - Tailoring Variation': 0 hours 31 minutes and 39 seconds [UID: 1ff2bf3b0c]
+[2025-02-05 15:22:28] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 3 types of fabrics and raw materials': 0 hours 9 minutes and 42 seconds [UID: 75ce91b95d]
+[2025-02-05 15:22:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 4 Types of stiches': 0 hours 31 minutes and 59 seconds [UID: 9733a467d5]
+[2025-02-05 15:22:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 5 - Measurement basics': 0 hours 16 minutes and 56 seconds [UID: 7ac7855e91]
+[2025-02-05 15:22:44] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 6  Petty coat': 1 hours 11 minutes and 50 seconds [UID: a627a0ebb9]
+[2025-02-05 15:22:45] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 7 Nighty': 1 hours 13 minutes and 39 seconds [UID: 2b1baf4705]
+[2025-02-05 15:23:01] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 8 Blouse': 1 hours 11 minutes and 49 seconds [UID: 2c5e141997]
+[2025-02-05 15:23:01] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\12. Womens Tailoring (LOOK INSIDE)\Womens talioring TA-F-7H-7P\Chapter 9 chudidhar': 1 hours 39 minutes and 19 seconds [UID: 0174c1dac0]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\13. Bee Keeping HI-M-5H-7P': 5 hours 18 minutes and 47 seconds [UID: 2da83abcce]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\14. Computerized Accounting HI-M-6H-7P': 0 hours 0 minutes and 0 seconds [UID: 4741a664c9]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\14. Computerized Accounting HI-M-6H-7P\Computerized Accounting and Book keeping': 5 hours 40 minutes and 15 seconds [UID: 59865d130c]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 1 - Final outs': 0 hours 34 minutes and 32 seconds [UID: 55de1e5f7c]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 10 - Final': 0 hours 29 minutes and 38 seconds [UID: e0eadc5790]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 11 - Final': 0 hours 16 minutes and 30 seconds [UID: 7fcf67c3b8]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 12 - Final out': 0 hours 13 minutes and 11 seconds [UID: 928655c1bf]
+[2025-02-05 15:23:18] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 13 - Final': 0 hours 5 minutes and 24 seconds [UID: 7dc73ec2f5]
+[2025-02-05 15:23:20] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 14 - Final': 0 hours 41 minutes and 7 seconds [UID: 9a41c9d349]
+[2025-02-05 15:23:26] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 2 - Final out': 0 hours 42 minutes and 41 seconds [UID: c7eab3d5fe]
+[2025-02-05 15:23:35] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 3 Final outs': 0 hours 18 minutes and 37 seconds [UID: f1a01a504a]
+[2025-02-05 15:23:40] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 4 - Final': 0 hours 12 minutes and 49 seconds [UID: 42d179b122]
+[2025-02-05 15:23:43] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 5 - Finals': 0 hours 32 minutes and 25 seconds [UID: c737769607]
+[2025-02-05 15:23:51] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 6 - Finals': 0 hours 33 minutes and 24 seconds [UID: e1faeb8a1a]
+[2025-02-05 15:23:51] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 7 - Final': 0 hours 5 minutes and 30 seconds [UID: c91ca86f6c]
+[2025-02-05 15:23:51] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 8 -Final': 0 hours 20 minutes and 53 seconds [UID: 1abb3a4e32]
+[2025-02-05 15:23:51] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\15. Cellphone and Repair Service TA-M-6H-7P\Chapter 9 - Final outs': 0 hours 38 minutes and 10 seconds [UID: 8b94a3a586]
+[2025-02-05 15:23:51] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 1 - Introduction to Floriculture': 0 hours 7 minutes and 35 seconds [UID: 1871aedcc0]
+[2025-02-05 15:23:52] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 2 - Cultivation of foliage and ornamental plants': 0 hours 35 minutes and 23 seconds [UID: 088b90b972]
+[2025-02-05 15:23:52] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 3 - Cultivation of various flower, foliage, ornamental plants under protected, open conditions': 0 hours 39 minutes and 38 seconds [UID: bcb5b38611]
+[2025-02-05 15:23:52] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 4 - Management of floriculture plants': 0 hours 24 minutes and 38 seconds [UID: 594afed5ea]
+[2025-02-05 15:24:01] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\2. Comercial Floriculture EN-M-2H-7P\Chapter 5 - Handling, storage and Value addition of cut flowers and loose flowers': 0 hours 13 minutes and 17 seconds [UID: 59c3b43652]
+[2025-02-05 15:24:27] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\3. Computer Hardware and Networking TA-M-9H-7P': 8 hours 55 minutes and 0 seconds [UID: ff5868f81f]
+[2025-02-05 15:24:36] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\4. Costume Jewellery HI-F-3H-1P': 2 hours 49 minutes and 32 seconds [UID: 6cd7d5dbe1]
+[2025-02-05 15:24:36] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\5. Electric Motor Rewinding & Repair Services EN-F-2H-7P': 1 hours 47 minutes and 44 seconds [UID: 6f6b9f102d]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall HI-F-2H-7P': 2 hours 49 minutes and 7 seconds [UID: b522fca302]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 1 Introduction to Preparations of Masala Items': 0 hours 53 minutes and 1 seconds [UID: 1910e82f82]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 2 Introduction to Preparations of Different Types of Fried Items': 0 hours 38 minutes and 41 seconds [UID: 44d89bb0e5]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 3 Introduction to Preparations of Different Types of Common Items': 0 hours 21 minutes and 27 seconds [UID: 6484156e1c]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 4 Introduction to Preparations of Snacks and Junk Items': 0 hours 48 minutes and 9 seconds [UID: ea6d514fa5]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 5 Introduction to Preparations of Different Chinese Items': 0 hours 26 minutes and 18 seconds [UID: 561c7e33d9]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 6 Introduction  to Exposure to No - Veg Dishes and Detailing': 0 hours 17 minutes and 22 seconds [UID: 1146391b51]
+[2025-02-05 15:24:42] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 7 Safety Measures Needed for Hygienic Preparation of Items': 0 hours 4 minutes and 27 seconds [UID: 87a1963c50]
+[2025-02-05 15:24:59] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\6. Fast Food Stall (LOOK INSIDE)\Fast Food Stall TA-F-2H-7P\CH 8 FSSAI - Its Role and Registration  Licensing Formalities and Information On E-Marketing': 0 hours 1 minutes and 38 seconds [UID: 4fcce18c3e]
+[2025-02-05 15:25:11] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\MASALA LOW': 0 hours 29 minutes and 7 seconds [UID: 9df8716a03]
+[2025-02-05 15:25:22] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\PAPAD LOW': 0 hours 46 minutes and 32 seconds [UID: 0abe14c3ef]
+[2025-02-05 15:25:22] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickel Masala Powder HI-F-2H-7P\PICKLE LOW': 0 hours 51 minutes and 10 seconds [UID: ee5833da2d]
+[2025-02-05 15:25:22] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-1 Papad': 0 hours 28 minutes and 24 seconds [UID: 2ca7b480ef]
+[2025-02-05 15:25:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-2 Pickle': 1 hours 14 minutes and 34 seconds [UID: 4b920d70e5]
+[2025-02-05 15:25:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\7. Papad, Pickle, Masala Powder (LOOK INSIDE)\Papad Pickle Masala Powder TA-M-2H-7P\Chapter-3 Masala Powder': 0 hours 44 minutes and 49 seconds [UID: f2f87b0bef]
+[2025-02-05 15:25:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\1_Introduction to Screen Printing': 0 hours 20 minutes and 8 seconds [UID: 3f0caeb875]
+[2025-02-05 15:25:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\2_Screen Preparation, Frame & Fabric': 0 hours 8 minutes and 43 seconds [UID: 5a265a5322]
+[2025-02-05 15:25:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\3_Photo Framing - Basic & Techniques': 0 hours 16 minutes and 58 seconds [UID: f51b56bcaa]
+[2025-02-05 15:25:24] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\4_Photo Lamination- Types, Techniques and Benefits': 0 hours 24 minutes and 11 seconds [UID: 558ea8e818]
+[2025-02-05 15:25:25] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\5_The Future of Screen Printing': 0 hours 3 minutes and 11 seconds [UID: ffcc32033c]
+[2025-02-05 15:25:37] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\6_The Changing Trends in Lamination, Framing and Printing': 0 hours 18 minutes and 16 seconds [UID: 10ee10bac8]
+[2025-02-05 15:25:41] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\8. Photo Farming, Lamination and Screen Printing TA-M-2H-7P\7_Sublimation Cloth & Mug Print': 0 hours 23 minutes and 7 seconds [UID: 0aa8e5aa57]
+[2025-02-05 15:25:46] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 1 - Concepts of Electricity': 0 hours 22 minutes and 5 seconds [UID: f1036b4df2]
+[2025-02-05 15:25:46] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 10 - Air Conditioning Services': 0 hours 33 minutes and 58 seconds [UID: 3f20395a1e]
+[2025-02-05 15:25:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 2 - RAC Industry Scope and Overview': 0 hours 8 minutes and 2 seconds [UID: c5514219bf]
+[2025-02-05 15:25:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 3 - Commonly Used Tools': 0 hours 28 minutes and 21 seconds [UID: 25e4f2a4b7]
+[2025-02-05 15:25:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 4 - Introduction To Refrigeration': 0 hours 12 minutes and 23 seconds [UID: beda6c1d9e]
+[2025-02-05 15:25:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 5 - Capacitor and Compressor': 0 hours 6 minutes and 49 seconds [UID: e577f26aca]
+[2025-02-05 15:25:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 6 - Copper Tubes In Refrigeration': 0 hours 16 minutes and 42 seconds [UID: 6c9c56896c]
+[2025-02-05 15:25:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 7 - Refrigerant Working Process': 0 hours 6 minutes and 32 seconds [UID: 3ae91f64c1]
+[2025-02-05 15:25:47] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 8 - Introduction to Air Conditioning': 0 hours 10 minutes and 1 seconds [UID: ea25b8c08f]
+[2025-02-05 15:25:48] 📊 Total duration in 'K:\\REAP 15 Course 2024\\720p\9. Refrigirator and AC HI-M-2.5H-7P\Chapter 9 - Fault Findings and Its Solution': 0 hours 8 minutes and 9 seconds [UID: 741fbca64d]
+[2025-02-05 15:25:49] 
+📊 Total video content in 'K:\\REAP 15 Course 2024\\720p': 80 hours 40 minutes and 56 seconds [UID: bb0140337c]
+[2025-02-05 15:25:49] ⏳ Total time taken: 0 hours 4 minutes and 50 seconds
+[2025-02-05 15:25:49] 
+Final Summary:
+[2025-02-05 15:25:49] 📁 Root: 80 hours 40 minutes and 56 seconds
+[2025-02-05 15:25:49]   📂 0. REAP Program project Introduction Video: 0 hours 2 minutes and 15 seconds
+[2025-02-05 15:25:49]       📂 Chapter 1 - Introduction: 0 hours 24 minutes and 48 seconds
+[2025-02-05 15:25:49]       📂 Chapter 2 - Raw materials tools and equipment: 0 hours 53 minutes and 57 seconds
+[2025-02-05 15:25:49]       📂 Chapter 3 - Preparation and making of wax candle: 0 hours 42 minutes and 50 seconds
+[2025-02-05 15:25:49]       📂 Chapter 4 - Different Types of candles: 0 hours 7 minutes and 24 seconds
+[2025-02-05 15:25:49]       📂 Chapter 5 - Top candle trends and their making procedure: 0 hours 17 minutes and 53 seconds
+[2025-02-05 15:25:49]       📂 Chapter 6 - Final Presentation and Marketing: 0 hours 39 minutes and 41 seconds
+[2025-02-05 15:25:49]     📂 Candle making No music: 3 hours 6 minutes and 36 seconds
+[2025-02-05 15:25:49]     📂 Chapter 1 - Basic Electric and Electronics Engineering - Basic Working concepts: 0 hours 21 minutes and 0 seconds
+[2025-02-05 15:25:49]     📂 Chapter 2 - Parts of Inverter and UPS: 0 hours 27 minutes and 2 seconds
+[2025-02-05 15:25:49]     📂 Chapter 3 - PCB Components, Diagram and its working: 1 hours 14 minutes and 4 seconds
+[2025-02-05 15:25:49]     📂 Chapter 4 - Invertor Parts and Wiring: 0 hours 12 minutes and 44 seconds
+[2025-02-05 15:25:49]     📂 Chapter 5 - Assembling and installing UPS: 0 hours 11 minutes and 57 seconds
+[2025-02-05 15:25:49]     📂 Chapter 6 - Repairing dysfunctional UPS: 0 hours 50 minutes and 36 seconds
+[2025-02-05 15:25:49]     📂 Chapter 7 - Selection and Management of equipment and Tools: 0 hours 49 minutes and 49 seconds
+[2025-02-05 15:25:49]     📂 Chapter 8 - Making of Different types of batteries in 21st century: 0 hours 57 minutes and 18 seconds
+[2025-02-05 15:25:49]     📂 Chapter 9 - Battery Management System: 0 hours 42 minutes and 57 seconds
+[2025-02-05 15:25:49]     📂 Chapter-1 Fundamentals Of Hand Embroidery: 0 hours 10 minutes and 29 seconds
+[2025-02-05 15:25:49]     📂 Chapter-10 Tie And Dye: 0 hours 20 minutes and 41 seconds
+[2025-02-05 15:25:49]     📂 Chapter-11 Printing Techniques: 0 hours 20 minutes and 41 seconds
+[2025-02-05 15:25:49]     📂 Chapter-2 Raw Materials Tools And Equipment: 0 hours 50 minutes and 18 seconds
+[2025-02-05 15:25:49]     📂 Chapter-3 Basic Embroidery Stiches-Run, Loop, Knot Stitches: 1 hours 11 minutes and 0 seconds
+[2025-02-05 15:25:49]     📂 Chapter-4 Design With Combination Of Stitches And Edge Finishing Techniques: 0 hours 17 minutes and 49 seconds
+[2025-02-05 15:25:49]     📂 Chapter-5 Decorative Stitches By Hand: 0 hours 18 minutes and 56 seconds
+[2025-02-05 15:25:49]     📂 Chapter-6 Application Of Traditional Embroidery: 0 hours 23 minutes and 35 seconds
+[2025-02-05 15:25:49]     📂 Chapter-7 Embellishment Works For Textile: 1 hours 11 minutes and 57 seconds
+[2025-02-05 15:25:49]     📂 Chapter-8 Fundamentals Of Painting Dyeing And Printing: 0 hours 12 minutes and 30 seconds
+[2025-02-05 15:25:49]     📂 Chapter-9 Different Painting Techniques: 0 hours 44 minutes and 8 seconds
+[2025-02-05 15:25:49]     📂 Womens Tailoring HI-F-6H-7P: 6 hours 29 minutes and 48 seconds
+[2025-02-05 15:25:49]       📂 Chapter 1 - Tailoring Parts Expirement: 0 hours 16 minutes and 5 seconds
+[2025-02-05 15:25:49]       📂 Chapter 10 chudidhar pant: 0 hours 56 minutes and 34 seconds
+[2025-02-05 15:25:49]       📂 Chapter 11 inskirt: 0 hours 26 minutes and 59 seconds
+[2025-02-05 15:25:49]       📂 Chapter 2 - Tailoring Variation: 0 hours 31 minutes and 39 seconds
+[2025-02-05 15:25:49]       📂 Chapter 3 types of fabrics and raw materials: 0 hours 9 minutes and 42 seconds
+[2025-02-05 15:25:49]       📂 Chapter 4 Types of stiches: 0 hours 31 minutes and 59 seconds
+[2025-02-05 15:25:49]       📂 Chapter 5 - Measurement basics: 0 hours 16 minutes and 56 seconds
+[2025-02-05 15:25:49]       📂 Chapter 6  Petty coat: 1 hours 11 minutes and 50 seconds
+[2025-02-05 15:25:49]       📂 Chapter 7 Nighty: 1 hours 13 minutes and 39 seconds
+[2025-02-05 15:25:49]       📂 Chapter 8 Blouse: 1 hours 11 minutes and 49 seconds
+[2025-02-05 15:25:49]       📂 Chapter 9 chudidhar: 1 hours 39 minutes and 19 seconds
+[2025-02-05 15:25:49]   📂 13. Bee Keeping HI-M-5H-7P: 5 hours 18 minutes and 47 seconds
+[2025-02-05 15:25:49]   📂 14. Computerized Accounting HI-M-6H-7P: 0 hours 0 minutes and 0 seconds
+[2025-02-05 15:25:49]     📂 Computerized Accounting and Book keeping: 5 hours 40 minutes and 15 seconds
+[2025-02-05 15:25:49]     📂 Chapter 1 - Final outs: 0 hours 34 minutes and 32 seconds
+[2025-02-05 15:25:49]     📂 Chapter 10 - Final: 0 hours 29 minutes and 38 seconds
+[2025-02-05 15:25:49]     📂 Chapter 11 - Final: 0 hours 16 minutes and 30 seconds
+[2025-02-05 15:25:49]     📂 Chapter 12 - Final out: 0 hours 13 minutes and 11 seconds
+[2025-02-05 15:25:49]     📂 Chapter 13 - Final: 0 hours 5 minutes and 24 seconds
+[2025-02-05 15:25:49]     📂 Chapter 14 - Final: 0 hours 41 minutes and 7 seconds
+[2025-02-05 15:25:49]     📂 Chapter 2 - Final out: 0 hours 42 minutes and 41 seconds
+[2025-02-05 15:25:49]     📂 Chapter 3 Final outs: 0 hours 18 minutes and 37 seconds
+[2025-02-05 15:25:49]     📂 Chapter 4 - Final: 0 hours 12 minutes and 49 seconds
+[2025-02-05 15:25:49]     📂 Chapter 5 - Finals: 0 hours 32 minutes and 25 seconds
+[2025-02-05 15:25:49]     📂 Chapter 6 - Finals: 0 hours 33 minutes and 24 seconds
+[2025-02-05 15:25:49]     📂 Chapter 7 - Final: 0 hours 5 minutes and 30 seconds
+[2025-02-05 15:25:49]     📂 Chapter 8 -Final: 0 hours 20 minutes and 53 seconds
+[2025-02-05 15:25:49]     📂 Chapter 9 - Final outs: 0 hours 38 minutes and 10 seconds
+[2025-02-05 15:25:49]     📂 Chapter 1 - Introduction to Floriculture: 0 hours 7 minutes and 35 seconds
+[2025-02-05 15:25:49]     📂 Chapter 2 - Cultivation of foliage and ornamental plants: 0 hours 35 minutes and 23 seconds
+[2025-02-05 15:25:49]     📂 Chapter 3 - Cultivation of various flower, foliage, ornamental plants under protected, open conditions: 0 hours 39 minutes and 38 seconds
+[2025-02-05 15:25:49]     📂 Chapter 4 - Management of floriculture plants: 0 hours 24 minutes and 38 seconds
+[2025-02-05 15:25:49]     📂 Chapter 5 - Handling, storage and Value addition of cut flowers and loose flowers: 0 hours 13 minutes and 17 seconds
+[2025-02-05 15:25:49]   📂 3. Computer Hardware and Networking TA-M-9H-7P: 8 hours 55 minutes and 0 seconds
+[2025-02-05 15:25:49]   📂 4. Costume Jewellery HI-F-3H-1P: 2 hours 49 minutes and 32 seconds
+[2025-02-05 15:25:49]   📂 5. Electric Motor Rewinding & Repair Services EN-F-2H-7P: 1 hours 47 minutes and 44 seconds
+[2025-02-05 15:25:49]     📂 Fast Food Stall HI-F-2H-7P: 2 hours 49 minutes and 7 seconds
+[2025-02-05 15:25:49]       📂 CH 1 Introduction to Preparations of Masala Items: 0 hours 53 minutes and 1 seconds
+[2025-02-05 15:25:49]       📂 CH 2 Introduction to Preparations of Different Types of Fried Items: 0 hours 38 minutes and 41 seconds
+[2025-02-05 15:25:49]       📂 CH 3 Introduction to Preparations of Different Types of Common Items: 0 hours 21 minutes and 27 seconds
+[2025-02-05 15:25:49]       📂 CH 4 Introduction to Preparations of Snacks and Junk Items: 0 hours 48 minutes and 9 seconds
+[2025-02-05 15:25:49]       📂 CH 5 Introduction to Preparations of Different Chinese Items: 0 hours 26 minutes and 18 seconds
+[2025-02-05 15:25:49]       📂 CH 6 Introduction  to Exposure to No - Veg Dishes and Detailing: 0 hours 17 minutes and 22 seconds
+[2025-02-05 15:25:49]       📂 CH 7 Safety Measures Needed for Hygienic Preparation of Items: 0 hours 4 minutes and 27 seconds
+[2025-02-05 15:25:49]       📂 CH 8 FSSAI - Its Role and Registration  Licensing Formalities and Information On E-Marketing: 0 hours 1 minutes and 38 seconds
+[2025-02-05 15:25:49]       📂 MASALA LOW: 0 hours 29 minutes and 7 seconds
+[2025-02-05 15:25:49]       📂 PAPAD LOW: 0 hours 46 minutes and 32 seconds
+[2025-02-05 15:25:49]       📂 PICKLE LOW: 0 hours 51 minutes and 10 seconds
+[2025-02-05 15:25:49]       📂 Chapter-1 Papad: 0 hours 28 minutes and 24 seconds
+[2025-02-05 15:25:49]       📂 Chapter-2 Pickle: 1 hours 14 minutes and 34 seconds
+[2025-02-05 15:25:49]       📂 Chapter-3 Masala Powder: 0 hours 44 minutes and 49 seconds
+[2025-02-05 15:25:49]     📂 1_Introduction to Screen Printing: 0 hours 20 minutes and 8 seconds
+[2025-02-05 15:25:49]     📂 2_Screen Preparation, Frame & Fabric: 0 hours 8 minutes and 43 seconds
+[2025-02-05 15:25:49]     📂 3_Photo Framing - Basic & Techniques: 0 hours 16 minutes and 58 seconds
+[2025-02-05 15:25:49]     📂 4_Photo Lamination- Types, Techniques and Benefits: 0 hours 24 minutes and 11 seconds
+[2025-02-05 15:25:49]     📂 5_The Future of Screen Printing: 0 hours 3 minutes and 11 seconds
+[2025-02-05 15:25:49]     📂 6_The Changing Trends in Lamination, Framing and Printing: 0 hours 18 minutes and 16 seconds
+[2025-02-05 15:25:49]     📂 7_Sublimation Cloth & Mug Print: 0 hours 23 minutes and 7 seconds
+[2025-02-05 15:25:49]     📂 Chapter 1 - Concepts of Electricity: 0 hours 22 minutes and 5 seconds
+[2025-02-05 15:25:49]     📂 Chapter 10 - Air Conditioning Services: 0 hours 33 minutes and 58 seconds
+[2025-02-05 15:25:49]     📂 Chapter 2 - RAC Industry Scope and Overview: 0 hours 8 minutes and 2 seconds
+[2025-02-05 15:25:49]     📂 Chapter 3 - Commonly Used Tools: 0 hours 28 minutes and 21 seconds
+[2025-02-05 15:25:49]     📂 Chapter 4 - Introduction To Refrigeration: 0 hours 12 minutes and 23 seconds
+[2025-02-05 15:25:49]     📂 Chapter 5 - Capacitor and Compressor: 0 hours 6 minutes and 49 seconds
+[2025-02-05 15:25:49]     📂 Chapter 6 - Copper Tubes In Refrigeration: 0 hours 16 minutes and 42 seconds
+[2025-02-05 15:25:49]     📂 Chapter 7 - Refrigerant Working Process: 0 hours 6 minutes and 32 seconds
+[2025-02-05 15:25:49]     📂 Chapter 8 - Introduction to Air Conditioning: 0 hours 10 minutes and 1 seconds
+[2025-02-05 15:25:49]     📂 Chapter 9 - Fault Findings and Its Solution: 0 hours 8 minutes and 9 seconds
+[2025-02-05 15:25:49] 🛑 Log ended at 15:25:49 on 2025-02-05
+
