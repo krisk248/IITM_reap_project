@@ -14,6 +14,8 @@ env/
 client_secret*.json
 token*.json
 *token.json
+token*.pickle
+*token.pickle
 
 # Log files and generated folders (adjust if needed)
 *.log
