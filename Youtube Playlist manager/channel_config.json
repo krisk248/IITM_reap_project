@@ -1,0 +1,20 @@
+{
+    "Reap Learn English": {
+        "name": "Reap Learn English",
+        "api_key": "AIzaSyCoawDYKWW31295p-x5AZHb5h_ulFolBmQ",
+        "client_secret_path": "W:/Youtube Project scripts/Youtube API Files/Reap_learn_english_secret.json",
+        "token_path": "tokens\\Reap_Learn_English_token.json"
+    },
+    "Reap hindi": {
+        "name": "Reap hindi",
+        "api_key": "AIzaSyBObUQJjGHSpBIZLldrgn5v_rbY7h4uvaA",
+        "client_secret_path": "W:/Youtube Project scripts/Youtube API Files/reaphindiupload.json",
+        "token_path": "W:\\To Githib\\Youtube Playlist manager\\tokens\\Reap_hindi_token.json"
+    },
+    "Reap learn Malayalm": {
+        "name": "Reap learn Malayalm",
+        "api_key": "AIzaSyBL69R0OasIeYKJ5K4dim9fMRL2xFlb5Z8",
+        "client_secret_path": "W:/Youtube Project scripts/Youtube API Files/Reap_learn_malayalam_secret.json",
+        "token_path": "W:\\To Githib\\Youtube Playlist manager\\tokens\\Reap_learn_Malayalm_token.json"
+    }
+}
